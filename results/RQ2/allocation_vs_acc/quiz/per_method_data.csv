@@ -1,0 +1,568 @@
+dataset,strategy,model,method,X,accuracy
+quiz,LLM-led,gpt-4o-mini,MajorityVote,0,0.8387
+quiz,LLM-led,gpt-4o-mini,MajorityVote,5,0.8581
+quiz,LLM-led,gpt-4o-mini,MajorityVote,10,0.8645
+quiz,LLM-led,gpt-4o-mini,MajorityVote,15,0.8452
+quiz,LLM-led,gpt-4o-mini,MajorityVote,20,0.8387
+quiz,LLM-led,gpt-4o-mini,MajorityVote,25,0.8323
+quiz,LLM-led,gpt-4o-mini,MajorityVote,30,0.8258
+quiz,LLM-led,gpt-4o-mini,MajorityVote,35,0.8065
+quiz,LLM-led,gpt-4o-mini,MajorityVote,40,0.7871
+quiz,LLM-led,gpt-4o-mini,MajorityVote,45,0.7806
+quiz,LLM-led,gpt-4o-mini,MajorityVote,50,0.7806
+quiz,LLM-led,gpt-4o-mini,MajorityVote,55,0.7613
+quiz,LLM-led,gpt-4o-mini,MajorityVote,60,0.7484
+quiz,LLM-led,gpt-4o-mini,MajorityVote,65,0.7161
+quiz,LLM-led,gpt-4o-mini,MajorityVote,70,0.7032
+quiz,LLM-led,gpt-4o-mini,MajorityVote,75,0.6968
+quiz,LLM-led,gpt-4o-mini,MajorityVote,80,0.6774
+quiz,LLM-led,gpt-4o-mini,MajorityVote,85,0.671
+quiz,LLM-led,gpt-4o-mini,MajorityVote,90,0.6452
+quiz,LLM-led,gpt-4o-mini,MajorityVote,95,0.6387
+quiz,LLM-led,gpt-4o-mini,MajorityVote,100,0.6065
+quiz,LLM-led,gpt-4o-mini,Wawa,0,0.8387
+quiz,LLM-led,gpt-4o-mini,Wawa,5,0.8581
+quiz,LLM-led,gpt-4o-mini,Wawa,10,0.8645
+quiz,LLM-led,gpt-4o-mini,Wawa,15,0.8452
+quiz,LLM-led,gpt-4o-mini,Wawa,20,0.8452
+quiz,LLM-led,gpt-4o-mini,Wawa,25,0.8452
+quiz,LLM-led,gpt-4o-mini,Wawa,30,0.8452
+quiz,LLM-led,gpt-4o-mini,Wawa,35,0.8258
+quiz,LLM-led,gpt-4o-mini,Wawa,40,0.8129
+quiz,LLM-led,gpt-4o-mini,Wawa,45,0.8
+quiz,LLM-led,gpt-4o-mini,Wawa,50,0.8065
+quiz,LLM-led,gpt-4o-mini,Wawa,55,0.7871
+quiz,LLM-led,gpt-4o-mini,Wawa,60,0.7742
+quiz,LLM-led,gpt-4o-mini,Wawa,65,0.7419
+quiz,LLM-led,gpt-4o-mini,Wawa,70,0.729
+quiz,LLM-led,gpt-4o-mini,Wawa,75,0.729
+quiz,LLM-led,gpt-4o-mini,Wawa,80,0.7097
+quiz,LLM-led,gpt-4o-mini,Wawa,85,0.7097
+quiz,LLM-led,gpt-4o-mini,Wawa,90,0.7032
+quiz,LLM-led,gpt-4o-mini,Wawa,95,0.7032
+quiz,LLM-led,gpt-4o-mini,Wawa,100,0.6581
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,0,0.8387
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,5,0.8581
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,10,0.8645
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,15,0.8452
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,20,0.8452
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,25,0.8452
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,30,0.8452
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,35,0.8258
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,40,0.8129
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,45,0.8
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,50,0.8065
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,55,0.7871
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,60,0.7742
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,65,0.7484
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,70,0.7419
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,75,0.7355
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,80,0.7161
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,85,0.7097
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,90,0.7161
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,95,0.7161
+quiz,LLM-led,gpt-4o-mini,ZeroBasedSkill,100,0.6645
+quiz,LLM-led,gpt-4o-mini,DawidSkene,0,0.8387
+quiz,LLM-led,gpt-4o-mini,DawidSkene,5,0.8581
+quiz,LLM-led,gpt-4o-mini,DawidSkene,10,0.871
+quiz,LLM-led,gpt-4o-mini,DawidSkene,15,0.8387
+quiz,LLM-led,gpt-4o-mini,DawidSkene,20,0.8258
+quiz,LLM-led,gpt-4o-mini,DawidSkene,25,0.8387
+quiz,LLM-led,gpt-4o-mini,DawidSkene,30,0.8323
+quiz,LLM-led,gpt-4o-mini,DawidSkene,35,0.8258
+quiz,LLM-led,gpt-4o-mini,DawidSkene,40,0.8
+quiz,LLM-led,gpt-4o-mini,DawidSkene,45,0.7806
+quiz,LLM-led,gpt-4o-mini,DawidSkene,50,0.7742
+quiz,LLM-led,gpt-4o-mini,DawidSkene,55,0.7613
+quiz,LLM-led,gpt-4o-mini,DawidSkene,60,0.7548
+quiz,LLM-led,gpt-4o-mini,DawidSkene,65,0.7419
+quiz,LLM-led,gpt-4o-mini,DawidSkene,70,0.7226
+quiz,LLM-led,gpt-4o-mini,DawidSkene,75,0.7161
+quiz,LLM-led,gpt-4o-mini,DawidSkene,80,0.7032
+quiz,LLM-led,gpt-4o-mini,DawidSkene,85,0.6839
+quiz,LLM-led,gpt-4o-mini,DawidSkene,90,0.671
+quiz,LLM-led,gpt-4o-mini,DawidSkene,95,0.671
+quiz,LLM-led,gpt-4o-mini,DawidSkene,100,0.6065
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,0,0.8387
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,5,0.8581
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,10,0.8774
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,15,0.8581
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,20,0.8516
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,25,0.8516
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,30,0.8452
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,35,0.8258
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,40,0.8194
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,45,0.8194
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,50,0.8194
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,55,0.8
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,60,0.8
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,65,0.7742
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,70,0.7677
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,75,0.7742
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,80,0.7484
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,85,0.7484
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,90,0.7484
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,95,0.7484
+quiz,LLM-led,gpt-4o-mini,OneCoinDawidSkene,100,0.6968
+quiz,LLM-led,gpt-4o-mini,GLAD,0,0.8387
+quiz,LLM-led,gpt-4o-mini,GLAD,5,0.8581
+quiz,LLM-led,gpt-4o-mini,GLAD,10,0.8645
+quiz,LLM-led,gpt-4o-mini,GLAD,15,0.8516
+quiz,LLM-led,gpt-4o-mini,GLAD,20,0.8452
+quiz,LLM-led,gpt-4o-mini,GLAD,25,0.8516
+quiz,LLM-led,gpt-4o-mini,GLAD,30,0.8452
+quiz,LLM-led,gpt-4o-mini,GLAD,35,0.8258
+quiz,LLM-led,gpt-4o-mini,GLAD,40,0.8129
+quiz,LLM-led,gpt-4o-mini,GLAD,45,0.8129
+quiz,LLM-led,gpt-4o-mini,GLAD,50,0.8129
+quiz,LLM-led,gpt-4o-mini,GLAD,55,0.7935
+quiz,LLM-led,gpt-4o-mini,GLAD,60,0.7806
+quiz,LLM-led,gpt-4o-mini,GLAD,65,0.7548
+quiz,LLM-led,gpt-4o-mini,GLAD,70,0.7419
+quiz,LLM-led,gpt-4o-mini,GLAD,75,0.7355
+quiz,LLM-led,gpt-4o-mini,GLAD,80,0.7161
+quiz,LLM-led,gpt-4o-mini,GLAD,85,0.7161
+quiz,LLM-led,gpt-4o-mini,GLAD,90,0.7161
+quiz,LLM-led,gpt-4o-mini,GLAD,95,0.7097
+quiz,LLM-led,gpt-4o-mini,GLAD,100,0.6387
+quiz,LLM-led,gpt-4o-mini,MACE,0,0.8387
+quiz,LLM-led,gpt-4o-mini,MACE,5,0.8581
+quiz,LLM-led,gpt-4o-mini,MACE,10,0.8645
+quiz,LLM-led,gpt-4o-mini,MACE,15,0.8516
+quiz,LLM-led,gpt-4o-mini,MACE,20,0.8452
+quiz,LLM-led,gpt-4o-mini,MACE,25,0.8516
+quiz,LLM-led,gpt-4o-mini,MACE,30,0.8452
+quiz,LLM-led,gpt-4o-mini,MACE,35,0.8323
+quiz,LLM-led,gpt-4o-mini,MACE,40,0.8129
+quiz,LLM-led,gpt-4o-mini,MACE,45,0.8129
+quiz,LLM-led,gpt-4o-mini,MACE,50,0.8129
+quiz,LLM-led,gpt-4o-mini,MACE,55,0.7935
+quiz,LLM-led,gpt-4o-mini,MACE,60,0.8
+quiz,LLM-led,gpt-4o-mini,MACE,65,0.7613
+quiz,LLM-led,gpt-4o-mini,MACE,70,0.7677
+quiz,LLM-led,gpt-4o-mini,MACE,75,0.7742
+quiz,LLM-led,gpt-4o-mini,MACE,80,0.7419
+quiz,LLM-led,gpt-4o-mini,MACE,85,0.7548
+quiz,LLM-led,gpt-4o-mini,MACE,90,0.7548
+quiz,LLM-led,gpt-4o-mini,MACE,95,0.7548
+quiz,LLM-led,gpt-4o-mini,MACE,100,0.7226
+quiz,LLM-led,gpt-4o-mini,MMSR,0,0.8387
+quiz,LLM-led,gpt-4o-mini,MMSR,5,0.8516
+quiz,LLM-led,gpt-4o-mini,MMSR,10,0.871
+quiz,LLM-led,gpt-4o-mini,MMSR,15,0.8258
+quiz,LLM-led,gpt-4o-mini,MMSR,20,0.8581
+quiz,LLM-led,gpt-4o-mini,MMSR,25,0.871
+quiz,LLM-led,gpt-4o-mini,MMSR,30,0.8516
+quiz,LLM-led,gpt-4o-mini,MMSR,35,0.8323
+quiz,LLM-led,gpt-4o-mini,MMSR,40,0.8194
+quiz,LLM-led,gpt-4o-mini,MMSR,45,0.8194
+quiz,LLM-led,gpt-4o-mini,MMSR,50,0.8258
+quiz,LLM-led,gpt-4o-mini,MMSR,55,0.8065
+quiz,LLM-led,gpt-4o-mini,MMSR,60,0.8194
+quiz,LLM-led,gpt-4o-mini,MMSR,65,0.7806
+quiz,LLM-led,gpt-4o-mini,MMSR,70,0.7613
+quiz,LLM-led,gpt-4o-mini,MMSR,75,0.7742
+quiz,LLM-led,gpt-4o-mini,MMSR,80,0.7548
+quiz,LLM-led,gpt-4o-mini,MMSR,85,0.7484
+quiz,LLM-led,gpt-4o-mini,MMSR,90,0.7484
+quiz,LLM-led,gpt-4o-mini,MMSR,95,0.7484
+quiz,LLM-led,gpt-4o-mini,MMSR,100,0.6323
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),0,0.8387
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),5,0.8581
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),10,0.8645
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),15,0.8387
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),20,0.8323
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),25,0.8258
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),30,0.8194
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),35,0.8
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),40,0.7806
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),45,0.7613
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),50,0.7613
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),55,0.7419
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),60,0.729
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),65,0.6968
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),70,0.6774
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),75,0.671
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),80,0.6516
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),85,0.6452
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),90,0.6194
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),95,0.6129
+quiz,LLM-led,gpt-4o-mini,CoAnnotating (baseline),100,0.6065
+quiz,LLM-led,llama3.1-8b,MajorityVote,0,0.6387
+quiz,LLM-led,llama3.1-8b,MajorityVote,5,0.6581
+quiz,LLM-led,llama3.1-8b,MajorityVote,10,0.6774
+quiz,LLM-led,llama3.1-8b,MajorityVote,15,0.6968
+quiz,LLM-led,llama3.1-8b,MajorityVote,20,0.6903
+quiz,LLM-led,llama3.1-8b,MajorityVote,25,0.7097
+quiz,LLM-led,llama3.1-8b,MajorityVote,30,0.7161
+quiz,LLM-led,llama3.1-8b,MajorityVote,35,0.7032
+quiz,LLM-led,llama3.1-8b,MajorityVote,40,0.7032
+quiz,LLM-led,llama3.1-8b,MajorityVote,45,0.6774
+quiz,LLM-led,llama3.1-8b,MajorityVote,50,0.729
+quiz,LLM-led,llama3.1-8b,MajorityVote,55,0.7355
+quiz,LLM-led,llama3.1-8b,MajorityVote,60,0.7097
+quiz,LLM-led,llama3.1-8b,MajorityVote,65,0.7097
+quiz,LLM-led,llama3.1-8b,MajorityVote,70,0.6903
+quiz,LLM-led,llama3.1-8b,MajorityVote,75,0.6645
+quiz,LLM-led,llama3.1-8b,MajorityVote,80,0.6452
+quiz,LLM-led,llama3.1-8b,MajorityVote,85,0.6323
+quiz,LLM-led,llama3.1-8b,MajorityVote,90,0.6194
+quiz,LLM-led,llama3.1-8b,MajorityVote,95,0.6129
+quiz,LLM-led,llama3.1-8b,MajorityVote,100,0.6065
+quiz,LLM-led,llama3.1-8b,Wawa,0,0.6387
+quiz,LLM-led,llama3.1-8b,Wawa,5,0.6581
+quiz,LLM-led,llama3.1-8b,Wawa,10,0.6774
+quiz,LLM-led,llama3.1-8b,Wawa,15,0.7032
+quiz,LLM-led,llama3.1-8b,Wawa,20,0.6968
+quiz,LLM-led,llama3.1-8b,Wawa,25,0.729
+quiz,LLM-led,llama3.1-8b,Wawa,30,0.7355
+quiz,LLM-led,llama3.1-8b,Wawa,35,0.7355
+quiz,LLM-led,llama3.1-8b,Wawa,40,0.7355
+quiz,LLM-led,llama3.1-8b,Wawa,45,0.7161
+quiz,LLM-led,llama3.1-8b,Wawa,50,0.7548
+quiz,LLM-led,llama3.1-8b,Wawa,55,0.7613
+quiz,LLM-led,llama3.1-8b,Wawa,60,0.7355
+quiz,LLM-led,llama3.1-8b,Wawa,65,0.7355
+quiz,LLM-led,llama3.1-8b,Wawa,70,0.7226
+quiz,LLM-led,llama3.1-8b,Wawa,75,0.7032
+quiz,LLM-led,llama3.1-8b,Wawa,80,0.6903
+quiz,LLM-led,llama3.1-8b,Wawa,85,0.6774
+quiz,LLM-led,llama3.1-8b,Wawa,90,0.6645
+quiz,LLM-led,llama3.1-8b,Wawa,95,0.671
+quiz,LLM-led,llama3.1-8b,Wawa,100,0.6581
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,0,0.6387
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,5,0.6581
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,10,0.6774
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,15,0.7032
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,20,0.6968
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,25,0.729
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,30,0.7484
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,35,0.7613
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,40,0.7548
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,45,0.7355
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,50,0.7613
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,55,0.7677
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,60,0.7484
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,65,0.7484
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,70,0.7355
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,75,0.7161
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,80,0.7097
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,85,0.6968
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,90,0.6839
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,95,0.6839
+quiz,LLM-led,llama3.1-8b,ZeroBasedSkill,100,0.6645
+quiz,LLM-led,llama3.1-8b,DawidSkene,0,0.6387
+quiz,LLM-led,llama3.1-8b,DawidSkene,5,0.6516
+quiz,LLM-led,llama3.1-8b,DawidSkene,10,0.6645
+quiz,LLM-led,llama3.1-8b,DawidSkene,15,0.671
+quiz,LLM-led,llama3.1-8b,DawidSkene,20,0.6774
+quiz,LLM-led,llama3.1-8b,DawidSkene,25,0.7032
+quiz,LLM-led,llama3.1-8b,DawidSkene,30,0.7032
+quiz,LLM-led,llama3.1-8b,DawidSkene,35,0.7097
+quiz,LLM-led,llama3.1-8b,DawidSkene,40,0.7097
+quiz,LLM-led,llama3.1-8b,DawidSkene,45,0.7032
+quiz,LLM-led,llama3.1-8b,DawidSkene,50,0.7226
+quiz,LLM-led,llama3.1-8b,DawidSkene,55,0.7355
+quiz,LLM-led,llama3.1-8b,DawidSkene,60,0.7097
+quiz,LLM-led,llama3.1-8b,DawidSkene,65,0.729
+quiz,LLM-led,llama3.1-8b,DawidSkene,70,0.7161
+quiz,LLM-led,llama3.1-8b,DawidSkene,75,0.6903
+quiz,LLM-led,llama3.1-8b,DawidSkene,80,0.6774
+quiz,LLM-led,llama3.1-8b,DawidSkene,85,0.6581
+quiz,LLM-led,llama3.1-8b,DawidSkene,90,0.6452
+quiz,LLM-led,llama3.1-8b,DawidSkene,95,0.6387
+quiz,LLM-led,llama3.1-8b,DawidSkene,100,0.6065
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,0,0.6387
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,5,0.6581
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,10,0.671
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,15,0.6968
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,20,0.7032
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,25,0.729
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,30,0.7484
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,35,0.7677
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,40,0.7742
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,45,0.7484
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,50,0.7677
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,55,0.7871
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,60,0.7677
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,65,0.7613
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,70,0.7548
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,75,0.729
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,80,0.7161
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,85,0.7097
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,90,0.7097
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,95,0.7032
+quiz,LLM-led,llama3.1-8b,OneCoinDawidSkene,100,0.6968
+quiz,LLM-led,llama3.1-8b,GLAD,0,0.6387
+quiz,LLM-led,llama3.1-8b,GLAD,5,0.6581
+quiz,LLM-led,llama3.1-8b,GLAD,10,0.671
+quiz,LLM-led,llama3.1-8b,GLAD,15,0.6968
+quiz,LLM-led,llama3.1-8b,GLAD,20,0.6903
+quiz,LLM-led,llama3.1-8b,GLAD,25,0.7161
+quiz,LLM-led,llama3.1-8b,GLAD,30,0.7484
+quiz,LLM-led,llama3.1-8b,GLAD,35,0.7548
+quiz,LLM-led,llama3.1-8b,GLAD,40,0.7548
+quiz,LLM-led,llama3.1-8b,GLAD,45,0.7355
+quiz,LLM-led,llama3.1-8b,GLAD,50,0.7677
+quiz,LLM-led,llama3.1-8b,GLAD,55,0.7871
+quiz,LLM-led,llama3.1-8b,GLAD,60,0.7677
+quiz,LLM-led,llama3.1-8b,GLAD,65,0.7677
+quiz,LLM-led,llama3.1-8b,GLAD,70,0.7548
+quiz,LLM-led,llama3.1-8b,GLAD,75,0.7419
+quiz,LLM-led,llama3.1-8b,GLAD,80,0.7097
+quiz,LLM-led,llama3.1-8b,GLAD,85,0.7032
+quiz,LLM-led,llama3.1-8b,GLAD,90,0.6839
+quiz,LLM-led,llama3.1-8b,GLAD,95,0.6774
+quiz,LLM-led,llama3.1-8b,GLAD,100,0.6387
+quiz,LLM-led,llama3.1-8b,MACE,0,0.6387
+quiz,LLM-led,llama3.1-8b,MACE,5,0.6581
+quiz,LLM-led,llama3.1-8b,MACE,10,0.671
+quiz,LLM-led,llama3.1-8b,MACE,15,0.6968
+quiz,LLM-led,llama3.1-8b,MACE,20,0.6968
+quiz,LLM-led,llama3.1-8b,MACE,25,0.7226
+quiz,LLM-led,llama3.1-8b,MACE,30,0.7677
+quiz,LLM-led,llama3.1-8b,MACE,35,0.7871
+quiz,LLM-led,llama3.1-8b,MACE,40,0.7742
+quiz,LLM-led,llama3.1-8b,MACE,45,0.7548
+quiz,LLM-led,llama3.1-8b,MACE,50,0.7806
+quiz,LLM-led,llama3.1-8b,MACE,55,0.7935
+quiz,LLM-led,llama3.1-8b,MACE,60,0.7742
+quiz,LLM-led,llama3.1-8b,MACE,65,0.7806
+quiz,LLM-led,llama3.1-8b,MACE,70,0.7871
+quiz,LLM-led,llama3.1-8b,MACE,75,0.7613
+quiz,LLM-led,llama3.1-8b,MACE,80,0.7419
+quiz,LLM-led,llama3.1-8b,MACE,85,0.7355
+quiz,LLM-led,llama3.1-8b,MACE,90,0.7226
+quiz,LLM-led,llama3.1-8b,MACE,95,0.729
+quiz,LLM-led,llama3.1-8b,MACE,100,0.7226
+quiz,LLM-led,llama3.1-8b,MMSR,0,0.6387
+quiz,LLM-led,llama3.1-8b,MMSR,5,0.6581
+quiz,LLM-led,llama3.1-8b,MMSR,10,0.671
+quiz,LLM-led,llama3.1-8b,MMSR,15,0.671
+quiz,LLM-led,llama3.1-8b,MMSR,20,0.6581
+quiz,LLM-led,llama3.1-8b,MMSR,25,0.6516
+quiz,LLM-led,llama3.1-8b,MMSR,30,0.7355
+quiz,LLM-led,llama3.1-8b,MMSR,35,0.7484
+quiz,LLM-led,llama3.1-8b,MMSR,40,0.7419
+quiz,LLM-led,llama3.1-8b,MMSR,45,0.7355
+quiz,LLM-led,llama3.1-8b,MMSR,50,0.7419
+quiz,LLM-led,llama3.1-8b,MMSR,55,0.7484
+quiz,LLM-led,llama3.1-8b,MMSR,60,0.7677
+quiz,LLM-led,llama3.1-8b,MMSR,65,0.7355
+quiz,LLM-led,llama3.1-8b,MMSR,70,0.7419
+quiz,LLM-led,llama3.1-8b,MMSR,75,0.7097
+quiz,LLM-led,llama3.1-8b,MMSR,80,0.7161
+quiz,LLM-led,llama3.1-8b,MMSR,85,0.7161
+quiz,LLM-led,llama3.1-8b,MMSR,90,0.7032
+quiz,LLM-led,llama3.1-8b,MMSR,95,0.6774
+quiz,LLM-led,llama3.1-8b,MMSR,100,0.6323
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),0,0.6387
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),5,0.6645
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),10,0.6774
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),15,0.6968
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),20,0.6903
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),25,0.7097
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),30,0.7097
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),35,0.7161
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),40,0.7161
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),45,0.6903
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),50,0.7226
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),55,0.7355
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),60,0.7097
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),65,0.7032
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),70,0.6839
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),75,0.6581
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),80,0.6387
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),85,0.6258
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),90,0.6129
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),95,0.6065
+quiz,LLM-led,llama3.1-8b,CoAnnotating (baseline),100,0.6065
+quiz,LLM-led,qwen2.5-7b,MajorityVote,0,0.7355
+quiz,LLM-led,qwen2.5-7b,MajorityVote,5,0.7484
+quiz,LLM-led,qwen2.5-7b,MajorityVote,10,0.7613
+quiz,LLM-led,qwen2.5-7b,MajorityVote,15,0.7548
+quiz,LLM-led,qwen2.5-7b,MajorityVote,20,0.7548
+quiz,LLM-led,qwen2.5-7b,MajorityVote,25,0.7484
+quiz,LLM-led,qwen2.5-7b,MajorityVote,30,0.7355
+quiz,LLM-led,qwen2.5-7b,MajorityVote,35,0.7226
+quiz,LLM-led,qwen2.5-7b,MajorityVote,40,0.7161
+quiz,LLM-led,qwen2.5-7b,MajorityVote,45,0.7161
+quiz,LLM-led,qwen2.5-7b,MajorityVote,50,0.7097
+quiz,LLM-led,qwen2.5-7b,MajorityVote,55,0.7226
+quiz,LLM-led,qwen2.5-7b,MajorityVote,60,0.729
+quiz,LLM-led,qwen2.5-7b,MajorityVote,65,0.7097
+quiz,LLM-led,qwen2.5-7b,MajorityVote,70,0.6968
+quiz,LLM-led,qwen2.5-7b,MajorityVote,75,0.6903
+quiz,LLM-led,qwen2.5-7b,MajorityVote,80,0.671
+quiz,LLM-led,qwen2.5-7b,MajorityVote,85,0.6516
+quiz,LLM-led,qwen2.5-7b,MajorityVote,90,0.6452
+quiz,LLM-led,qwen2.5-7b,MajorityVote,95,0.6323
+quiz,LLM-led,qwen2.5-7b,MajorityVote,100,0.6065
+quiz,LLM-led,qwen2.5-7b,Wawa,0,0.7355
+quiz,LLM-led,qwen2.5-7b,Wawa,5,0.7484
+quiz,LLM-led,qwen2.5-7b,Wawa,10,0.7613
+quiz,LLM-led,qwen2.5-7b,Wawa,15,0.7548
+quiz,LLM-led,qwen2.5-7b,Wawa,20,0.7677
+quiz,LLM-led,qwen2.5-7b,Wawa,25,0.7613
+quiz,LLM-led,qwen2.5-7b,Wawa,30,0.7484
+quiz,LLM-led,qwen2.5-7b,Wawa,35,0.7419
+quiz,LLM-led,qwen2.5-7b,Wawa,40,0.7355
+quiz,LLM-led,qwen2.5-7b,Wawa,45,0.729
+quiz,LLM-led,qwen2.5-7b,Wawa,50,0.7226
+quiz,LLM-led,qwen2.5-7b,Wawa,55,0.7355
+quiz,LLM-led,qwen2.5-7b,Wawa,60,0.7419
+quiz,LLM-led,qwen2.5-7b,Wawa,65,0.729
+quiz,LLM-led,qwen2.5-7b,Wawa,70,0.7226
+quiz,LLM-led,qwen2.5-7b,Wawa,75,0.7226
+quiz,LLM-led,qwen2.5-7b,Wawa,80,0.7032
+quiz,LLM-led,qwen2.5-7b,Wawa,85,0.6839
+quiz,LLM-led,qwen2.5-7b,Wawa,90,0.6839
+quiz,LLM-led,qwen2.5-7b,Wawa,95,0.6774
+quiz,LLM-led,qwen2.5-7b,Wawa,100,0.6581
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,0,0.7355
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,5,0.7484
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,10,0.7613
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,15,0.7742
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,20,0.8
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,25,0.7871
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,30,0.7742
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,35,0.7677
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,40,0.7613
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,45,0.7484
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,50,0.7484
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,55,0.7613
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,60,0.7677
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,65,0.7677
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,70,0.7548
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,75,0.7548
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,80,0.7355
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,85,0.7161
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,90,0.7161
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,95,0.7032
+quiz,LLM-led,qwen2.5-7b,ZeroBasedSkill,100,0.6645
+quiz,LLM-led,qwen2.5-7b,DawidSkene,0,0.7355
+quiz,LLM-led,qwen2.5-7b,DawidSkene,5,0.7355
+quiz,LLM-led,qwen2.5-7b,DawidSkene,10,0.7355
+quiz,LLM-led,qwen2.5-7b,DawidSkene,15,0.7419
+quiz,LLM-led,qwen2.5-7b,DawidSkene,20,0.7355
+quiz,LLM-led,qwen2.5-7b,DawidSkene,25,0.729
+quiz,LLM-led,qwen2.5-7b,DawidSkene,30,0.7226
+quiz,LLM-led,qwen2.5-7b,DawidSkene,35,0.729
+quiz,LLM-led,qwen2.5-7b,DawidSkene,40,0.7097
+quiz,LLM-led,qwen2.5-7b,DawidSkene,45,0.7032
+quiz,LLM-led,qwen2.5-7b,DawidSkene,50,0.7097
+quiz,LLM-led,qwen2.5-7b,DawidSkene,55,0.7161
+quiz,LLM-led,qwen2.5-7b,DawidSkene,60,0.7097
+quiz,LLM-led,qwen2.5-7b,DawidSkene,65,0.7032
+quiz,LLM-led,qwen2.5-7b,DawidSkene,70,0.7032
+quiz,LLM-led,qwen2.5-7b,DawidSkene,75,0.6968
+quiz,LLM-led,qwen2.5-7b,DawidSkene,80,0.6774
+quiz,LLM-led,qwen2.5-7b,DawidSkene,85,0.6516
+quiz,LLM-led,qwen2.5-7b,DawidSkene,90,0.6581
+quiz,LLM-led,qwen2.5-7b,DawidSkene,95,0.6452
+quiz,LLM-led,qwen2.5-7b,DawidSkene,100,0.6065
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,0,0.7355
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,5,0.7419
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,10,0.7613
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,15,0.7871
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,20,0.7871
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,25,0.7742
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,30,0.7677
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,35,0.7613
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,40,0.7742
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,45,0.7613
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,50,0.7613
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,55,0.7613
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,60,0.7677
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,65,0.7677
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,70,0.7484
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,75,0.7548
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,80,0.7484
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,85,0.729
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,90,0.7355
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,95,0.729
+quiz,LLM-led,qwen2.5-7b,OneCoinDawidSkene,100,0.6968
+quiz,LLM-led,qwen2.5-7b,GLAD,0,0.7355
+quiz,LLM-led,qwen2.5-7b,GLAD,5,0.7419
+quiz,LLM-led,qwen2.5-7b,GLAD,10,0.7613
+quiz,LLM-led,qwen2.5-7b,GLAD,15,0.7806
+quiz,LLM-led,qwen2.5-7b,GLAD,20,0.7742
+quiz,LLM-led,qwen2.5-7b,GLAD,25,0.7742
+quiz,LLM-led,qwen2.5-7b,GLAD,30,0.7742
+quiz,LLM-led,qwen2.5-7b,GLAD,35,0.7613
+quiz,LLM-led,qwen2.5-7b,GLAD,40,0.7484
+quiz,LLM-led,qwen2.5-7b,GLAD,45,0.7419
+quiz,LLM-led,qwen2.5-7b,GLAD,50,0.7355
+quiz,LLM-led,qwen2.5-7b,GLAD,55,0.7484
+quiz,LLM-led,qwen2.5-7b,GLAD,60,0.7484
+quiz,LLM-led,qwen2.5-7b,GLAD,65,0.7484
+quiz,LLM-led,qwen2.5-7b,GLAD,70,0.7355
+quiz,LLM-led,qwen2.5-7b,GLAD,75,0.7355
+quiz,LLM-led,qwen2.5-7b,GLAD,80,0.7161
+quiz,LLM-led,qwen2.5-7b,GLAD,85,0.6968
+quiz,LLM-led,qwen2.5-7b,GLAD,90,0.6903
+quiz,LLM-led,qwen2.5-7b,GLAD,95,0.6774
+quiz,LLM-led,qwen2.5-7b,GLAD,100,0.6387
+quiz,LLM-led,qwen2.5-7b,MACE,0,0.7355
+quiz,LLM-led,qwen2.5-7b,MACE,5,0.7484
+quiz,LLM-led,qwen2.5-7b,MACE,10,0.7677
+quiz,LLM-led,qwen2.5-7b,MACE,15,0.7806
+quiz,LLM-led,qwen2.5-7b,MACE,20,0.7871
+quiz,LLM-led,qwen2.5-7b,MACE,25,0.7806
+quiz,LLM-led,qwen2.5-7b,MACE,30,0.7742
+quiz,LLM-led,qwen2.5-7b,MACE,35,0.7613
+quiz,LLM-led,qwen2.5-7b,MACE,40,0.7742
+quiz,LLM-led,qwen2.5-7b,MACE,45,0.7677
+quiz,LLM-led,qwen2.5-7b,MACE,50,0.7548
+quiz,LLM-led,qwen2.5-7b,MACE,55,0.7613
+quiz,LLM-led,qwen2.5-7b,MACE,60,0.7742
+quiz,LLM-led,qwen2.5-7b,MACE,65,0.7806
+quiz,LLM-led,qwen2.5-7b,MACE,70,0.7613
+quiz,LLM-led,qwen2.5-7b,MACE,75,0.7677
+quiz,LLM-led,qwen2.5-7b,MACE,80,0.7613
+quiz,LLM-led,qwen2.5-7b,MACE,85,0.7355
+quiz,LLM-led,qwen2.5-7b,MACE,90,0.7548
+quiz,LLM-led,qwen2.5-7b,MACE,95,0.7419
+quiz,LLM-led,qwen2.5-7b,MACE,100,0.7226
+quiz,LLM-led,qwen2.5-7b,MMSR,0,0.7355
+quiz,LLM-led,qwen2.5-7b,MMSR,5,0.729
+quiz,LLM-led,qwen2.5-7b,MMSR,10,0.7613
+quiz,LLM-led,qwen2.5-7b,MMSR,15,0.7806
+quiz,LLM-led,qwen2.5-7b,MMSR,20,0.7806
+quiz,LLM-led,qwen2.5-7b,MMSR,25,0.7355
+quiz,LLM-led,qwen2.5-7b,MMSR,30,0.7806
+quiz,LLM-led,qwen2.5-7b,MMSR,35,0.7806
+quiz,LLM-led,qwen2.5-7b,MMSR,40,0.7935
+quiz,LLM-led,qwen2.5-7b,MMSR,45,0.8129
+quiz,LLM-led,qwen2.5-7b,MMSR,50,0.7806
+quiz,LLM-led,qwen2.5-7b,MMSR,55,0.8
+quiz,LLM-led,qwen2.5-7b,MMSR,60,0.7935
+quiz,LLM-led,qwen2.5-7b,MMSR,65,0.6645
+quiz,LLM-led,qwen2.5-7b,MMSR,70,0.6452
+quiz,LLM-led,qwen2.5-7b,MMSR,75,0.6452
+quiz,LLM-led,qwen2.5-7b,MMSR,80,0.6387
+quiz,LLM-led,qwen2.5-7b,MMSR,85,0.6258
+quiz,LLM-led,qwen2.5-7b,MMSR,90,0.6194
+quiz,LLM-led,qwen2.5-7b,MMSR,95,0.6065
+quiz,LLM-led,qwen2.5-7b,MMSR,100,0.6323
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),0,0.7355
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),5,0.7355
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),10,0.7484
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),15,0.7548
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),20,0.7484
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),25,0.7419
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),30,0.7226
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),35,0.7097
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),40,0.7097
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),45,0.6968
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),50,0.6903
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),55,0.6903
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),60,0.6968
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),65,0.6774
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),70,0.6645
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),75,0.6581
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),80,0.6387
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),85,0.6194
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),90,0.6129
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),95,0.6
+quiz,LLM-led,qwen2.5-7b,CoAnnotating (baseline),100,0.6065

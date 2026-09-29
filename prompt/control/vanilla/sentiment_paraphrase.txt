@@ -1,0 +1,9 @@
+The sentence below comes from a movie review. Judge whether the opinion it conveys is
+favourable or unfavourable. One of the two must be chosen - a neutral verdict is not available.
+
+Sentence: {sentence}
+
+Provide your answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"answer": "pos" or "neg", "confidence": <integer 0-100>}}

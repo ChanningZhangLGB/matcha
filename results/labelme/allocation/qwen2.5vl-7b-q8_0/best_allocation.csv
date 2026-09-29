@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source
+qwen2.5vl-7b-q8_0,labelme,0.7600,0.7920,DawidSkene,0.8050,DawidSkene,0.8280,70,DawidSkene,entropy,human_only,53.06,0.000,37.14,15.92,30.0%,+0.0360,5.0,assumed

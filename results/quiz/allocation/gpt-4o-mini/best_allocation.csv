@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source,human_judgments_full,judgments_at_peak,judgments_saved,judgments_saved_pct
+gpt-4o-mini,quiz,0.8387,0.7226,MACE,0.7613,MACE,0.8774,10,OneCoinDawidSkene,entropy,human_plus_llm,744.17,0.026,74.44,669.73,90.0%,+0.1548,20.0,assumed,"8,930","1,109","7,821",87.6%

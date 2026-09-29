@@ -1,0 +1,567 @@
+dataset,strategy,model,method,X,accuracy
+labelme,Human-led,gpt-4o-mini,MajorityVote,0,0.814
+labelme,Human-led,gpt-4o-mini,MajorityVote,5,0.823
+labelme,Human-led,gpt-4o-mini,MajorityVote,10,0.828
+labelme,Human-led,gpt-4o-mini,MajorityVote,15,0.822
+labelme,Human-led,gpt-4o-mini,MajorityVote,20,0.825
+labelme,Human-led,gpt-4o-mini,MajorityVote,25,0.827
+labelme,Human-led,gpt-4o-mini,MajorityVote,30,0.827
+labelme,Human-led,gpt-4o-mini,MajorityVote,35,0.828
+labelme,Human-led,gpt-4o-mini,MajorityVote,40,0.827
+labelme,Human-led,gpt-4o-mini,MajorityVote,45,0.826
+labelme,Human-led,gpt-4o-mini,MajorityVote,50,0.826
+labelme,Human-led,gpt-4o-mini,MajorityVote,55,0.825
+labelme,Human-led,gpt-4o-mini,MajorityVote,60,0.825
+labelme,Human-led,gpt-4o-mini,MajorityVote,65,0.821
+labelme,Human-led,gpt-4o-mini,MajorityVote,70,0.821
+labelme,Human-led,gpt-4o-mini,MajorityVote,75,0.815
+labelme,Human-led,gpt-4o-mini,MajorityVote,80,0.807
+labelme,Human-led,gpt-4o-mini,MajorityVote,85,0.798
+labelme,Human-led,gpt-4o-mini,MajorityVote,90,0.779
+labelme,Human-led,gpt-4o-mini,MajorityVote,95,0.772
+labelme,Human-led,gpt-4o-mini,MajorityVote,100,0.762
+labelme,Human-led,gpt-4o-mini,Wawa,0,0.814
+labelme,Human-led,gpt-4o-mini,Wawa,5,0.822
+labelme,Human-led,gpt-4o-mini,Wawa,10,0.824
+labelme,Human-led,gpt-4o-mini,Wawa,15,0.816
+labelme,Human-led,gpt-4o-mini,Wawa,20,0.82
+labelme,Human-led,gpt-4o-mini,Wawa,25,0.817
+labelme,Human-led,gpt-4o-mini,Wawa,30,0.818
+labelme,Human-led,gpt-4o-mini,Wawa,35,0.821
+labelme,Human-led,gpt-4o-mini,Wawa,40,0.818
+labelme,Human-led,gpt-4o-mini,Wawa,45,0.815
+labelme,Human-led,gpt-4o-mini,Wawa,50,0.816
+labelme,Human-led,gpt-4o-mini,Wawa,55,0.815
+labelme,Human-led,gpt-4o-mini,Wawa,60,0.816
+labelme,Human-led,gpt-4o-mini,Wawa,65,0.811
+labelme,Human-led,gpt-4o-mini,Wawa,70,0.81
+labelme,Human-led,gpt-4o-mini,Wawa,75,0.807
+labelme,Human-led,gpt-4o-mini,Wawa,80,0.802
+labelme,Human-led,gpt-4o-mini,Wawa,85,0.801
+labelme,Human-led,gpt-4o-mini,Wawa,90,0.776
+labelme,Human-led,gpt-4o-mini,Wawa,95,0.774
+labelme,Human-led,gpt-4o-mini,Wawa,100,0.764
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,0,0.814
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,5,0.822
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,10,0.821
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,15,0.814
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,20,0.814
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,25,0.815
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,30,0.816
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,35,0.818
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,40,0.819
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,45,0.814
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,50,0.815
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,55,0.815
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,60,0.814
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,65,0.814
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,70,0.813
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,75,0.81
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,80,0.799
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,85,0.796
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,90,0.788
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,95,0.782
+labelme,Human-led,gpt-4o-mini,ZeroBasedSkill,100,0.778
+labelme,Human-led,gpt-4o-mini,DawidSkene,0,0.814
+labelme,Human-led,gpt-4o-mini,DawidSkene,5,0.816
+labelme,Human-led,gpt-4o-mini,DawidSkene,10,0.818
+labelme,Human-led,gpt-4o-mini,DawidSkene,15,0.812
+labelme,Human-led,gpt-4o-mini,DawidSkene,20,0.811
+labelme,Human-led,gpt-4o-mini,DawidSkene,25,0.817
+labelme,Human-led,gpt-4o-mini,DawidSkene,30,0.818
+labelme,Human-led,gpt-4o-mini,DawidSkene,35,0.822
+labelme,Human-led,gpt-4o-mini,DawidSkene,40,0.815
+labelme,Human-led,gpt-4o-mini,DawidSkene,45,0.811
+labelme,Human-led,gpt-4o-mini,DawidSkene,50,0.817
+labelme,Human-led,gpt-4o-mini,DawidSkene,55,0.815
+labelme,Human-led,gpt-4o-mini,DawidSkene,60,0.81
+labelme,Human-led,gpt-4o-mini,DawidSkene,65,0.815
+labelme,Human-led,gpt-4o-mini,DawidSkene,70,0.817
+labelme,Human-led,gpt-4o-mini,DawidSkene,75,0.814
+labelme,Human-led,gpt-4o-mini,DawidSkene,80,0.81
+labelme,Human-led,gpt-4o-mini,DawidSkene,85,0.809
+labelme,Human-led,gpt-4o-mini,DawidSkene,90,0.794
+labelme,Human-led,gpt-4o-mini,DawidSkene,95,0.789
+labelme,Human-led,gpt-4o-mini,DawidSkene,100,0.792
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,0,0.814
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,5,0.82
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,10,0.823
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,15,0.815
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,20,0.816
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,25,0.816
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,30,0.817
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,35,0.817
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,40,0.816
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,45,0.817
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,50,0.819
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,55,0.82
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,60,0.821
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,65,0.816
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,70,0.82
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,75,0.813
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,80,0.809
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,85,0.8
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,90,0.783
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,95,0.774
+labelme,Human-led,gpt-4o-mini,OneCoinDawidSkene,100,0.767
+labelme,Human-led,gpt-4o-mini,GLAD,0,0.814
+labelme,Human-led,gpt-4o-mini,GLAD,5,0.821
+labelme,Human-led,gpt-4o-mini,GLAD,10,0.82
+labelme,Human-led,gpt-4o-mini,GLAD,15,0.811
+labelme,Human-led,gpt-4o-mini,GLAD,20,0.811
+labelme,Human-led,gpt-4o-mini,GLAD,25,0.813
+labelme,Human-led,gpt-4o-mini,GLAD,30,0.815
+labelme,Human-led,gpt-4o-mini,GLAD,35,0.818
+labelme,Human-led,gpt-4o-mini,GLAD,40,0.817
+labelme,Human-led,gpt-4o-mini,GLAD,45,0.812
+labelme,Human-led,gpt-4o-mini,GLAD,50,0.813
+labelme,Human-led,gpt-4o-mini,GLAD,55,0.812
+labelme,Human-led,gpt-4o-mini,GLAD,60,0.804
+labelme,Human-led,gpt-4o-mini,GLAD,65,0.806
+labelme,Human-led,gpt-4o-mini,GLAD,70,0.804
+labelme,Human-led,gpt-4o-mini,GLAD,75,0.804
+labelme,Human-led,gpt-4o-mini,GLAD,80,0.8
+labelme,Human-led,gpt-4o-mini,GLAD,85,0.796
+labelme,Human-led,gpt-4o-mini,GLAD,90,0.784
+labelme,Human-led,gpt-4o-mini,GLAD,95,0.78
+labelme,Human-led,gpt-4o-mini,GLAD,100,0.775
+labelme,Human-led,gpt-4o-mini,MACE,0,0.814
+labelme,Human-led,gpt-4o-mini,MACE,5,0.821
+labelme,Human-led,gpt-4o-mini,MACE,10,0.817
+labelme,Human-led,gpt-4o-mini,MACE,15,0.81
+labelme,Human-led,gpt-4o-mini,MACE,20,0.812
+labelme,Human-led,gpt-4o-mini,MACE,25,0.816
+labelme,Human-led,gpt-4o-mini,MACE,30,0.817
+labelme,Human-led,gpt-4o-mini,MACE,35,0.819
+labelme,Human-led,gpt-4o-mini,MACE,40,0.818
+labelme,Human-led,gpt-4o-mini,MACE,45,0.813
+labelme,Human-led,gpt-4o-mini,MACE,50,0.814
+labelme,Human-led,gpt-4o-mini,MACE,55,0.811
+labelme,Human-led,gpt-4o-mini,MACE,60,0.811
+labelme,Human-led,gpt-4o-mini,MACE,65,0.812
+labelme,Human-led,gpt-4o-mini,MACE,70,0.808
+labelme,Human-led,gpt-4o-mini,MACE,75,0.808
+labelme,Human-led,gpt-4o-mini,MACE,80,0.801
+labelme,Human-led,gpt-4o-mini,MACE,85,0.797
+labelme,Human-led,gpt-4o-mini,MACE,90,0.787
+labelme,Human-led,gpt-4o-mini,MACE,95,0.78
+labelme,Human-led,gpt-4o-mini,MACE,100,0.773
+labelme,Human-led,gpt-4o-mini,MMSR,0,0.814
+labelme,Human-led,gpt-4o-mini,MMSR,5,0.816
+labelme,Human-led,gpt-4o-mini,MMSR,10,0.821
+labelme,Human-led,gpt-4o-mini,MMSR,15,0.82
+labelme,Human-led,gpt-4o-mini,MMSR,20,0.817
+labelme,Human-led,gpt-4o-mini,MMSR,25,0.817
+labelme,Human-led,gpt-4o-mini,MMSR,30,0.828
+labelme,Human-led,gpt-4o-mini,MMSR,35,0.832
+labelme,Human-led,gpt-4o-mini,MMSR,40,0.824
+labelme,Human-led,gpt-4o-mini,MMSR,45,0.822
+labelme,Human-led,gpt-4o-mini,MMSR,50,0.821
+labelme,Human-led,gpt-4o-mini,MMSR,55,0.816
+labelme,Human-led,gpt-4o-mini,MMSR,60,0.819
+labelme,Human-led,gpt-4o-mini,MMSR,65,0.816
+labelme,Human-led,gpt-4o-mini,MMSR,70,0.816
+labelme,Human-led,gpt-4o-mini,MMSR,75,0.807
+labelme,Human-led,gpt-4o-mini,MMSR,80,0.797
+labelme,Human-led,gpt-4o-mini,MMSR,85,0.791
+labelme,Human-led,gpt-4o-mini,MMSR,90,0.783
+labelme,Human-led,gpt-4o-mini,MMSR,95,0.774
+labelme,Human-led,gpt-4o-mini,MMSR,100,0.767
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),0,0.814
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),5,0.823
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),10,0.828
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),15,0.822
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),20,0.825
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),25,0.827
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),30,0.827
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),35,0.828
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),40,0.827
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),45,0.826
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),50,0.826
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),55,0.825
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),60,0.825
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),65,0.821
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),70,0.821
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),75,0.815
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),80,0.807
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),85,0.798
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),90,0.779
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),95,0.772
+labelme,Human-led,gpt-4o-mini,CoAnnotating (baseline),100,0.762
+labelme,Human-led,minicpm-v-8b,MajorityVote,0,0.746
+labelme,Human-led,minicpm-v-8b,MajorityVote,5,0.757
+labelme,Human-led,minicpm-v-8b,MajorityVote,10,0.772
+labelme,Human-led,minicpm-v-8b,MajorityVote,15,0.774
+labelme,Human-led,minicpm-v-8b,MajorityVote,20,0.784
+labelme,Human-led,minicpm-v-8b,MajorityVote,25,0.778
+labelme,Human-led,minicpm-v-8b,MajorityVote,30,0.792
+labelme,Human-led,minicpm-v-8b,MajorityVote,35,0.789
+labelme,Human-led,minicpm-v-8b,MajorityVote,40,0.79
+labelme,Human-led,minicpm-v-8b,MajorityVote,45,0.788
+labelme,Human-led,minicpm-v-8b,MajorityVote,50,0.785
+labelme,Human-led,minicpm-v-8b,MajorityVote,55,0.784
+labelme,Human-led,minicpm-v-8b,MajorityVote,60,0.78
+labelme,Human-led,minicpm-v-8b,MajorityVote,65,0.79
+labelme,Human-led,minicpm-v-8b,MajorityVote,70,0.801
+labelme,Human-led,minicpm-v-8b,MajorityVote,75,0.801
+labelme,Human-led,minicpm-v-8b,MajorityVote,80,0.801
+labelme,Human-led,minicpm-v-8b,MajorityVote,85,0.798
+labelme,Human-led,minicpm-v-8b,MajorityVote,90,0.782
+labelme,Human-led,minicpm-v-8b,MajorityVote,95,0.768
+labelme,Human-led,minicpm-v-8b,MajorityVote,100,0.762
+labelme,Human-led,minicpm-v-8b,Wawa,0,0.746
+labelme,Human-led,minicpm-v-8b,Wawa,5,0.758
+labelme,Human-led,minicpm-v-8b,Wawa,10,0.771
+labelme,Human-led,minicpm-v-8b,Wawa,15,0.774
+labelme,Human-led,minicpm-v-8b,Wawa,20,0.783
+labelme,Human-led,minicpm-v-8b,Wawa,25,0.776
+labelme,Human-led,minicpm-v-8b,Wawa,30,0.785
+labelme,Human-led,minicpm-v-8b,Wawa,35,0.781
+labelme,Human-led,minicpm-v-8b,Wawa,40,0.786
+labelme,Human-led,minicpm-v-8b,Wawa,45,0.784
+labelme,Human-led,minicpm-v-8b,Wawa,50,0.78
+labelme,Human-led,minicpm-v-8b,Wawa,55,0.776
+labelme,Human-led,minicpm-v-8b,Wawa,60,0.774
+labelme,Human-led,minicpm-v-8b,Wawa,65,0.784
+labelme,Human-led,minicpm-v-8b,Wawa,70,0.801
+labelme,Human-led,minicpm-v-8b,Wawa,75,0.801
+labelme,Human-led,minicpm-v-8b,Wawa,80,0.8
+labelme,Human-led,minicpm-v-8b,Wawa,85,0.802
+labelme,Human-led,minicpm-v-8b,Wawa,90,0.791
+labelme,Human-led,minicpm-v-8b,Wawa,95,0.77
+labelme,Human-led,minicpm-v-8b,Wawa,100,0.764
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,0,0.746
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,5,0.756
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,10,0.771
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,15,0.774
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,20,0.781
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,25,0.777
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,30,0.787
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,35,0.781
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,40,0.787
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,45,0.785
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,50,0.783
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,55,0.781
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,60,0.776
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,65,0.785
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,70,0.807
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,75,0.802
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,80,0.804
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,85,0.806
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,90,0.791
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,95,0.775
+labelme,Human-led,minicpm-v-8b,ZeroBasedSkill,100,0.778
+labelme,Human-led,minicpm-v-8b,DawidSkene,0,0.746
+labelme,Human-led,minicpm-v-8b,DawidSkene,5,0.753
+labelme,Human-led,minicpm-v-8b,DawidSkene,10,0.768
+labelme,Human-led,minicpm-v-8b,DawidSkene,15,0.779
+labelme,Human-led,minicpm-v-8b,DawidSkene,20,0.78
+labelme,Human-led,minicpm-v-8b,DawidSkene,25,0.778
+labelme,Human-led,minicpm-v-8b,DawidSkene,30,0.781
+labelme,Human-led,minicpm-v-8b,DawidSkene,35,0.784
+labelme,Human-led,minicpm-v-8b,DawidSkene,40,0.784
+labelme,Human-led,minicpm-v-8b,DawidSkene,45,0.782
+labelme,Human-led,minicpm-v-8b,DawidSkene,50,0.781
+labelme,Human-led,minicpm-v-8b,DawidSkene,55,0.78
+labelme,Human-led,minicpm-v-8b,DawidSkene,60,0.782
+labelme,Human-led,minicpm-v-8b,DawidSkene,65,0.798
+labelme,Human-led,minicpm-v-8b,DawidSkene,70,0.81
+labelme,Human-led,minicpm-v-8b,DawidSkene,75,0.809
+labelme,Human-led,minicpm-v-8b,DawidSkene,80,0.81
+labelme,Human-led,minicpm-v-8b,DawidSkene,85,0.81
+labelme,Human-led,minicpm-v-8b,DawidSkene,90,0.802
+labelme,Human-led,minicpm-v-8b,DawidSkene,95,0.796
+labelme,Human-led,minicpm-v-8b,DawidSkene,100,0.792
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,0,0.746
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,5,0.757
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,10,0.772
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,15,0.773
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,20,0.783
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,25,0.782
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,30,0.795
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,35,0.788
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,40,0.792
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,45,0.787
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,50,0.782
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,55,0.781
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,60,0.778
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,65,0.792
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,70,0.803
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,75,0.801
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,80,0.8
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,85,0.801
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,90,0.786
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,95,0.766
+labelme,Human-led,minicpm-v-8b,OneCoinDawidSkene,100,0.767
+labelme,Human-led,minicpm-v-8b,GLAD,0,0.746
+labelme,Human-led,minicpm-v-8b,GLAD,5,0.757
+labelme,Human-led,minicpm-v-8b,GLAD,10,0.775
+labelme,Human-led,minicpm-v-8b,GLAD,15,0.774
+labelme,Human-led,minicpm-v-8b,GLAD,20,0.784
+labelme,Human-led,minicpm-v-8b,GLAD,25,0.777
+labelme,Human-led,minicpm-v-8b,GLAD,30,0.781
+labelme,Human-led,minicpm-v-8b,GLAD,35,0.782
+labelme,Human-led,minicpm-v-8b,GLAD,40,0.786
+labelme,Human-led,minicpm-v-8b,GLAD,45,0.785
+labelme,Human-led,minicpm-v-8b,GLAD,50,0.783
+labelme,Human-led,minicpm-v-8b,GLAD,55,0.782
+labelme,Human-led,minicpm-v-8b,GLAD,60,0.777
+labelme,Human-led,minicpm-v-8b,GLAD,65,0.788
+labelme,Human-led,minicpm-v-8b,GLAD,70,0.803
+labelme,Human-led,minicpm-v-8b,GLAD,75,0.805
+labelme,Human-led,minicpm-v-8b,GLAD,80,0.803
+labelme,Human-led,minicpm-v-8b,GLAD,85,0.804
+labelme,Human-led,minicpm-v-8b,GLAD,90,0.791
+labelme,Human-led,minicpm-v-8b,GLAD,95,0.78
+labelme,Human-led,minicpm-v-8b,GLAD,100,0.775
+labelme,Human-led,minicpm-v-8b,MACE,0,0.746
+labelme,Human-led,minicpm-v-8b,MACE,5,0.755
+labelme,Human-led,minicpm-v-8b,MACE,10,0.773
+labelme,Human-led,minicpm-v-8b,MACE,15,0.775
+labelme,Human-led,minicpm-v-8b,MACE,20,0.784
+labelme,Human-led,minicpm-v-8b,MACE,25,0.779
+labelme,Human-led,minicpm-v-8b,MACE,30,0.788
+labelme,Human-led,minicpm-v-8b,MACE,35,0.786
+labelme,Human-led,minicpm-v-8b,MACE,40,0.787
+labelme,Human-led,minicpm-v-8b,MACE,45,0.789
+labelme,Human-led,minicpm-v-8b,MACE,50,0.787
+labelme,Human-led,minicpm-v-8b,MACE,55,0.783
+labelme,Human-led,minicpm-v-8b,MACE,60,0.777
+labelme,Human-led,minicpm-v-8b,MACE,65,0.788
+labelme,Human-led,minicpm-v-8b,MACE,70,0.805
+labelme,Human-led,minicpm-v-8b,MACE,75,0.801
+labelme,Human-led,minicpm-v-8b,MACE,80,0.8
+labelme,Human-led,minicpm-v-8b,MACE,85,0.801
+labelme,Human-led,minicpm-v-8b,MACE,90,0.79
+labelme,Human-led,minicpm-v-8b,MACE,95,0.776
+labelme,Human-led,minicpm-v-8b,MACE,100,0.773
+labelme,Human-led,minicpm-v-8b,MMSR,0,0.746
+labelme,Human-led,minicpm-v-8b,MMSR,5,0.757
+labelme,Human-led,minicpm-v-8b,MMSR,10,0.764
+labelme,Human-led,minicpm-v-8b,MMSR,15,0.773
+labelme,Human-led,minicpm-v-8b,MMSR,20,0.779
+labelme,Human-led,minicpm-v-8b,MMSR,30,0.789
+labelme,Human-led,minicpm-v-8b,MMSR,35,0.786
+labelme,Human-led,minicpm-v-8b,MMSR,40,0.783
+labelme,Human-led,minicpm-v-8b,MMSR,45,0.786
+labelme,Human-led,minicpm-v-8b,MMSR,50,0.78
+labelme,Human-led,minicpm-v-8b,MMSR,55,0.774
+labelme,Human-led,minicpm-v-8b,MMSR,60,0.774
+labelme,Human-led,minicpm-v-8b,MMSR,65,0.778
+labelme,Human-led,minicpm-v-8b,MMSR,70,0.801
+labelme,Human-led,minicpm-v-8b,MMSR,75,0.8
+labelme,Human-led,minicpm-v-8b,MMSR,80,0.799
+labelme,Human-led,minicpm-v-8b,MMSR,85,0.792
+labelme,Human-led,minicpm-v-8b,MMSR,90,0.783
+labelme,Human-led,minicpm-v-8b,MMSR,95,0.77
+labelme,Human-led,minicpm-v-8b,MMSR,100,0.767
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),0,0.746
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),5,0.757
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),10,0.772
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),15,0.774
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),20,0.784
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),25,0.778
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),30,0.792
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),35,0.789
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),40,0.79
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),45,0.788
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),50,0.785
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),55,0.784
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),60,0.78
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),65,0.79
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),70,0.801
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),75,0.801
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),80,0.801
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),85,0.798
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),90,0.782
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),95,0.768
+labelme,Human-led,minicpm-v-8b,CoAnnotating (baseline),100,0.762
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,0,0.76
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,5,0.773
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,10,0.78
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,15,0.791
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,20,0.799
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,25,0.788
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,30,0.786
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,35,0.786
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,40,0.79
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,45,0.792
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,50,0.792
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,55,0.788
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,60,0.823
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,65,0.823
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,70,0.823
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,75,0.818
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,80,0.808
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,85,0.794
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,90,0.773
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,95,0.766
+labelme,Human-led,qwen2.5vl-7b,MajorityVote,100,0.762
+labelme,Human-led,qwen2.5vl-7b,Wawa,0,0.76
+labelme,Human-led,qwen2.5vl-7b,Wawa,5,0.773
+labelme,Human-led,qwen2.5vl-7b,Wawa,10,0.78
+labelme,Human-led,qwen2.5vl-7b,Wawa,15,0.788
+labelme,Human-led,qwen2.5vl-7b,Wawa,20,0.795
+labelme,Human-led,qwen2.5vl-7b,Wawa,25,0.781
+labelme,Human-led,qwen2.5vl-7b,Wawa,30,0.781
+labelme,Human-led,qwen2.5vl-7b,Wawa,35,0.783
+labelme,Human-led,qwen2.5vl-7b,Wawa,40,0.787
+labelme,Human-led,qwen2.5vl-7b,Wawa,45,0.788
+labelme,Human-led,qwen2.5vl-7b,Wawa,50,0.787
+labelme,Human-led,qwen2.5vl-7b,Wawa,55,0.787
+labelme,Human-led,qwen2.5vl-7b,Wawa,60,0.818
+labelme,Human-led,qwen2.5vl-7b,Wawa,65,0.818
+labelme,Human-led,qwen2.5vl-7b,Wawa,70,0.816
+labelme,Human-led,qwen2.5vl-7b,Wawa,75,0.821
+labelme,Human-led,qwen2.5vl-7b,Wawa,80,0.808
+labelme,Human-led,qwen2.5vl-7b,Wawa,85,0.794
+labelme,Human-led,qwen2.5vl-7b,Wawa,90,0.779
+labelme,Human-led,qwen2.5vl-7b,Wawa,95,0.767
+labelme,Human-led,qwen2.5vl-7b,Wawa,100,0.764
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,0,0.76
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,5,0.773
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,10,0.78
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,15,0.787
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,20,0.794
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,25,0.785
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,30,0.781
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,35,0.783
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,40,0.787
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,45,0.788
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,50,0.786
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,55,0.792
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,60,0.82
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,65,0.821
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,70,0.819
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,75,0.817
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,80,0.81
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,85,0.8
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,90,0.783
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,95,0.772
+labelme,Human-led,qwen2.5vl-7b,ZeroBasedSkill,100,0.778
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,0,0.76
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,5,0.768
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,10,0.777
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,15,0.785
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,20,0.79
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,25,0.788
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,30,0.782
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,35,0.781
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,40,0.788
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,45,0.792
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,50,0.789
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,55,0.792
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,60,0.823
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,65,0.825
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,70,0.828
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,75,0.824
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,80,0.815
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,85,0.809
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,90,0.8
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,95,0.791
+labelme,Human-led,qwen2.5vl-7b,DawidSkene,100,0.792
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,0,0.76
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,5,0.773
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,10,0.784
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,15,0.789
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,20,0.8
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,25,0.789
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,30,0.789
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,35,0.791
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,40,0.794
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,45,0.798
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,50,0.795
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,55,0.797
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,60,0.827
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,65,0.827
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,70,0.827
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,75,0.823
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,80,0.813
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,85,0.802
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,90,0.782
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,95,0.766
+labelme,Human-led,qwen2.5vl-7b,OneCoinDawidSkene,100,0.767
+labelme,Human-led,qwen2.5vl-7b,GLAD,0,0.76
+labelme,Human-led,qwen2.5vl-7b,GLAD,5,0.771
+labelme,Human-led,qwen2.5vl-7b,GLAD,10,0.78
+labelme,Human-led,qwen2.5vl-7b,GLAD,15,0.785
+labelme,Human-led,qwen2.5vl-7b,GLAD,20,0.793
+labelme,Human-led,qwen2.5vl-7b,GLAD,25,0.784
+labelme,Human-led,qwen2.5vl-7b,GLAD,30,0.78
+labelme,Human-led,qwen2.5vl-7b,GLAD,35,0.781
+labelme,Human-led,qwen2.5vl-7b,GLAD,40,0.786
+labelme,Human-led,qwen2.5vl-7b,GLAD,45,0.789
+labelme,Human-led,qwen2.5vl-7b,GLAD,50,0.79
+labelme,Human-led,qwen2.5vl-7b,GLAD,55,0.792
+labelme,Human-led,qwen2.5vl-7b,GLAD,60,0.819
+labelme,Human-led,qwen2.5vl-7b,GLAD,65,0.818
+labelme,Human-led,qwen2.5vl-7b,GLAD,70,0.818
+labelme,Human-led,qwen2.5vl-7b,GLAD,75,0.817
+labelme,Human-led,qwen2.5vl-7b,GLAD,80,0.81
+labelme,Human-led,qwen2.5vl-7b,GLAD,85,0.8
+labelme,Human-led,qwen2.5vl-7b,GLAD,90,0.789
+labelme,Human-led,qwen2.5vl-7b,GLAD,95,0.776
+labelme,Human-led,qwen2.5vl-7b,GLAD,100,0.775
+labelme,Human-led,qwen2.5vl-7b,MACE,0,0.76
+labelme,Human-led,qwen2.5vl-7b,MACE,5,0.773
+labelme,Human-led,qwen2.5vl-7b,MACE,10,0.781
+labelme,Human-led,qwen2.5vl-7b,MACE,15,0.787
+labelme,Human-led,qwen2.5vl-7b,MACE,20,0.792
+labelme,Human-led,qwen2.5vl-7b,MACE,25,0.781
+labelme,Human-led,qwen2.5vl-7b,MACE,30,0.786
+labelme,Human-led,qwen2.5vl-7b,MACE,35,0.789
+labelme,Human-led,qwen2.5vl-7b,MACE,40,0.791
+labelme,Human-led,qwen2.5vl-7b,MACE,45,0.789
+labelme,Human-led,qwen2.5vl-7b,MACE,50,0.789
+labelme,Human-led,qwen2.5vl-7b,MACE,55,0.792
+labelme,Human-led,qwen2.5vl-7b,MACE,60,0.821
+labelme,Human-led,qwen2.5vl-7b,MACE,65,0.821
+labelme,Human-led,qwen2.5vl-7b,MACE,70,0.82
+labelme,Human-led,qwen2.5vl-7b,MACE,75,0.821
+labelme,Human-led,qwen2.5vl-7b,MACE,80,0.812
+labelme,Human-led,qwen2.5vl-7b,MACE,85,0.798
+labelme,Human-led,qwen2.5vl-7b,MACE,90,0.787
+labelme,Human-led,qwen2.5vl-7b,MACE,95,0.774
+labelme,Human-led,qwen2.5vl-7b,MACE,100,0.773
+labelme,Human-led,qwen2.5vl-7b,MMSR,0,0.76
+labelme,Human-led,qwen2.5vl-7b,MMSR,5,0.772
+labelme,Human-led,qwen2.5vl-7b,MMSR,10,0.776
+labelme,Human-led,qwen2.5vl-7b,MMSR,15,0.784
+labelme,Human-led,qwen2.5vl-7b,MMSR,20,0.79
+labelme,Human-led,qwen2.5vl-7b,MMSR,25,0.784
+labelme,Human-led,qwen2.5vl-7b,MMSR,30,0.787
+labelme,Human-led,qwen2.5vl-7b,MMSR,35,0.787
+labelme,Human-led,qwen2.5vl-7b,MMSR,40,0.791
+labelme,Human-led,qwen2.5vl-7b,MMSR,45,0.79
+labelme,Human-led,qwen2.5vl-7b,MMSR,50,0.79
+labelme,Human-led,qwen2.5vl-7b,MMSR,55,0.788
+labelme,Human-led,qwen2.5vl-7b,MMSR,60,0.825
+labelme,Human-led,qwen2.5vl-7b,MMSR,65,0.824
+labelme,Human-led,qwen2.5vl-7b,MMSR,70,0.826
+labelme,Human-led,qwen2.5vl-7b,MMSR,75,0.822
+labelme,Human-led,qwen2.5vl-7b,MMSR,80,0.805
+labelme,Human-led,qwen2.5vl-7b,MMSR,85,0.794
+labelme,Human-led,qwen2.5vl-7b,MMSR,90,0.778
+labelme,Human-led,qwen2.5vl-7b,MMSR,95,0.765
+labelme,Human-led,qwen2.5vl-7b,MMSR,100,0.767
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),0,0.76
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),5,0.773
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),10,0.78
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),15,0.791
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),20,0.799
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),25,0.788
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),30,0.786
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),35,0.786
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),40,0.79
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),45,0.792
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),50,0.792
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),55,0.788
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),60,0.823
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),65,0.823
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),70,0.823
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),75,0.818
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),80,0.808
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),85,0.794
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),90,0.773
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),95,0.766
+labelme,Human-led,qwen2.5vl-7b,CoAnnotating (baseline),100,0.762

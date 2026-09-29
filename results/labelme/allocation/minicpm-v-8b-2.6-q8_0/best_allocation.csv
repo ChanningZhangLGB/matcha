@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source
+minicpm-v-8b-2.6-q8_0,labelme,0.7460,0.7920,DawidSkene,0.8030,DawidSkene,0.8200,70,DawidSkene,confidence,human_only,53.06,0.000,37.14,15.92,30.0%,+0.0280,5.0,assumed

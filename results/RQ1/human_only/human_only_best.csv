@@ -1,0 +1,17 @@
+Modality,Dataset,n,metric,best,best method,worst,worst method,range
+Text,sentiment,"4,999",accuracy,0.9166,OneCoinDawidSkene,0.8822,MajorityVote,0.0344
+Text,movie_reviews,"1,498",accuracy,0.7924,ZeroBasedSkill,0.7417,MMSR,0.0507
+Text,crowdtruth,"1,596",accuracy,0.7957,DawidSkene,0.7738,MajorityVote,0.0219
+Text,conll_ner_5k,"5,001",accuracy,0.9418,DawidSkene,0.9108,OneCoinDawidSkene,0.0310
+Text,pico_5k,"5,034",accuracy,0.9615,ZeroBasedSkill,0.9201,MMSR,0.0413
+Text,quiz,155,accuracy,0.7226,MACE,0.6065,MajorityVote,0.1161
+Image,labelme,"1,000",accuracy,0.7920,DawidSkene,0.7620,MajorityVote,0.0300
+Image,imagenet16h,"4,800",accuracy,0.8767,Wawa,0.8715,MajorityVote,0.0052
+Text,sentiment,"4,999",macro_f1,0.9166,OneCoinDawidSkene,0.8820,MajorityVote,0.0346
+Text,movie_reviews,"1,498",macro_f1,0.7826,ZeroBasedSkill,0.7331,MMSR,0.0494
+Text,crowdtruth,"1,596",macro_f1,0.7495,DawidSkene,0.6997,MajorityVote,0.0498
+Text,conll_ner_5k,"5,001",macro_f1,0.7529,DawidSkene,0.5889,OneCoinDawidSkene,0.1640
+Text,pico_5k,"5,034",macro_f1,0.8414,ZeroBasedSkill,0.7320,MMSR,0.1094
+Text,quiz,155,macro_f1,0.7547,MACE,0.5542,DawidSkene,0.2005
+Image,labelme,"1,000",macro_f1,0.7861,DawidSkene,0.7556,MajorityVote,0.0305
+Image,imagenet16h,"4,800",macro_f1,0.8760,Wawa,0.8706,MajorityVote,0.0053

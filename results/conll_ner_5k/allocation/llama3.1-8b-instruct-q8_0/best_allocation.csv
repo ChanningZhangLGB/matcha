@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source,human_judgments_full,judgments_at_peak,judgments_saved,judgments_saved_pct
+llama3.1-8b-instruct-q8_0,conll_ner_5k,0.7096,0.9418,DawidSkene,0.9412,DawidSkene,0.9393,95,DawidSkene,confidence,human_only,4381.12,0.000,4162.06,219.06,5.0%,-0.0025,45.0,assumed,"23,366","22,140","1,226",5.2%

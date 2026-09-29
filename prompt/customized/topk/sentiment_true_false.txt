@@ -1,0 +1,12 @@
+Read the sentence below, taken from a movie review.
+
+Sentence: {sentence}
+
+Statement: The sentiment expressed in this sentence is {polarity}.
+
+Is this statement true or false? You must answer True or False.
+
+Provide your 2 best guesses and the probability that each is correct (0% to 100%).
+
+Respond with ONLY a JSON object, no other text.
+{{"guesses": [{{"answer": "True" or "False", "probability": <integer 0-100>}}, ...]}}

@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source,human_judgments_full,judgments_at_peak,judgments_saved,judgments_saved_pct
+llama3.1-8b-instruct-q8_0,sentiment,0.9068,0.9166,GLAD,0.9264,MACE,0.9302,65,OneCoinDawidSkene,entropy,human_plus_llm,924.87,0.000,601.17,323.70,35.0%,+0.0136,8.0,assumed,"27,746","18,048","9,698",35.0%

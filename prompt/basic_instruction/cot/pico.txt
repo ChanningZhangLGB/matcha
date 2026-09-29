@@ -1,0 +1,14 @@
+Below is the abstract of a medical clinical-trial article. Highlight the text spans that
+describe the PARTICIPANTS of the trial - that is, the population who took part: their number,
+condition, age, sex, or other characteristics that identify who was studied.
+
+Copy the spans exactly as they appear in the text. Do not paraphrase. If no span describes the
+participants, return an empty list.
+
+Abstract: {text}
+
+Analyze the abstract step by step: locate where the study population is described, then
+extract the exact spans. Then provide your answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"reasoning": "<2-3 sentences>", "answer": ["<exact span>", ...], "confidence": <integer 0-100>}}

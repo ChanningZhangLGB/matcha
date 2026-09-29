@@ -1,0 +1,24 @@
+Rate movies based on their review.
+
+Given a short review text, predict the number of stars that the movie got from that reviewer.
+Judge what rating the reviewer gave, not your own opinion of the movie.
+
+Review: {text}
+
+Which rating did the reviewer give? Choose exactly one:
+A) 10 stars
+B) 9 stars
+C) 8 stars
+D) 7 stars
+E) 6 stars
+F) 5 stars
+G) 4 stars
+H) 3 stars
+I) 2 stars
+J) 1 star
+K) 0 stars
+
+Provide your answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"answer": "<letter A-K>", "confidence": <integer 0-100>}}

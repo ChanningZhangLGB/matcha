@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source,human_judgments_full,judgments_at_peak,judgments_saved,judgments_saved_pct
+qwen2.5-7b-instruct-q8_0,movie_reviews,0.6816,0.7924,ZeroBasedSkill,0.8097,MajorityVote,0.8124,85,MajorityVote,entropy,human_plus_llm,216.71,0.000,184.20,32.51,15.0%,+0.0200,7.0,measured,"7,430","6,314","1,116",15.0%

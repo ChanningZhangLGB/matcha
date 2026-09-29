@@ -1,0 +1,37 @@
+dataset,model,source,source_detail,k,measure,status,overall_acc,ECE,AUROC,slope,acc_lowest_u,acc_highest_u
+crowdtruth_pooled,gpt-4o-mini,k0,basic instruction x vanilla (single response),1,confidence,ok,0.7769,0.0841,0.5542,0.0,1.0,1.0
+crowdtruth_pooled,gpt-4o-mini,k0,basic instruction x vanilla (single response),1,entropy,DEGENERATE (identically 0 at k=1: a single vote has no spread),0.7769,0.2231,0.5000,,,
+crowdtruth_pooled,gpt-4o-mini,k0,basic instruction x vanilla (single response),1,inter_rater,DEGENERATE (undefined at k=1: divides by k(k-1)=0),0.7769,,,,,
+crowdtruth_pooled,gpt-4o-mini,k1,basic instruction x 3 protocols,3,confidence,ok,0.7807,0.0731,0.5663,-0.1832,0.8168,1.0
+crowdtruth_pooled,gpt-4o-mini,k1,basic instruction x 3 protocols,3,entropy,ok,0.7807,0.2236,0.5534,0.2345,0.8007,0.5662
+crowdtruth_pooled,gpt-4o-mini,k1,basic instruction x 3 protocols,3,inter_rater,ok,0.7807,0.2022,0.5534,0.2345,0.8007,0.5662
+crowdtruth_pooled,gpt-4o-mini,k2,3 prompt paraphrases x vanilla,3,confidence,ok,0.7744,0.0891,0.5640,-0.0056,0.8126,0.8182
+crowdtruth_pooled,gpt-4o-mini,k2,3 prompt paraphrases x vanilla,3,entropy,ok,0.7744,0.2219,0.5965,0.286,0.8135,0.5275
+crowdtruth_pooled,gpt-4o-mini,k2,3 prompt paraphrases x vanilla,3,inter_rater,ok,0.7744,0.1876,0.5965,0.286,0.8135,0.5275
+crowdtruth_pooled,gpt-4o-mini,k3,3 prompt groups x 3 protocols,9,confidence,ok,0.7845,0.0715,0.5690,0.2586,1.0,0.7414
+crowdtruth_pooled,gpt-4o-mini,k3,3 prompt groups x 3 protocols,9,entropy,ok,0.7845,0.2126,0.6086,0.2807,0.8291,0.5484
+crowdtruth_pooled,gpt-4o-mini,k3,3 prompt groups x 3 protocols,9,inter_rater,ok,0.7845,0.1516,0.6086,0.2807,0.8291,0.5484
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,confidence,ok,0.7431,0.1407,0.5123,0.0191,0.7537,0.7346
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,entropy,DEGENERATE (identically 0 at k=1: a single vote has no spread),0.7431,0.2569,0.5000,,,
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,inter_rater,DEGENERATE (undefined at k=1: divides by k(k-1)=0),0.7431,,,,,
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k1,basic instruction x 3 protocols,3,confidence,ok,0.7519,0.1157,0.5273,-0.2248,0.5,0.7248
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k1,basic instruction x 3 protocols,3,entropy,ok,0.7519,0.2307,0.6091,0.3164,0.7999,0.4835
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k1,basic instruction x 3 protocols,3,inter_rater,ok,0.7519,0.1926,0.6091,0.3164,0.7999,0.4835
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,confidence,ok,0.7538,0.1338,0.4988,-0.0003,0.7757,0.776
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,entropy,ok,0.7538,0.2802,0.6069,0.2032,0.8079,0.6047
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,inter_rater,ok,0.7538,0.2132,0.6069,0.2032,0.8079,0.6047
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,confidence,ok,0.7669,0.1035,0.5198,0.1047,0.838,0.7333
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,entropy,ok,0.7669,0.2592,0.6563,0.3239,0.8453,0.5214
+crowdtruth_pooled,llama3.1-8b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,inter_rater,ok,0.7669,0.1196,0.6563,0.3239,0.8453,0.5214
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,confidence,ok,0.7625,0.1265,0.4919,-0.0066,0.7579,0.7645
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,entropy,DEGENERATE (identically 0 at k=1: a single vote has no spread),0.7625,0.2375,0.5000,,,
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,inter_rater,DEGENERATE (undefined at k=1: divides by k(k-1)=0),0.7625,,,,,
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k1,basic instruction x 3 protocols,3,confidence,ok,0.7701,0.1340,0.5312,0.3632,0.7918,0.4286
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k1,basic instruction x 3 protocols,3,entropy,ok,0.7701,0.2315,0.5899,0.2609,0.8072,0.5463
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k1,basic instruction x 3 protocols,3,inter_rater,ok,0.7701,0.1957,0.5899,0.2609,0.8072,0.5463
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,confidence,ok,0.7688,0.1268,0.5195,0.0356,0.8011,0.7655
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,entropy,ok,0.7688,0.2408,0.6174,0.2569,0.8213,0.5644
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,inter_rater,ok,0.7688,0.1894,0.6174,0.2569,0.8213,0.5644
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,confidence,ok,0.7813,0.1238,0.5376,0.0494,0.8308,0.7814
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,entropy,ok,0.7813,0.2228,0.6417,0.2355,0.8455,0.61
+crowdtruth_pooled,qwen2.5-7b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,inter_rater,ok,0.7813,0.1271,0.6417,0.2355,0.8455,0.61

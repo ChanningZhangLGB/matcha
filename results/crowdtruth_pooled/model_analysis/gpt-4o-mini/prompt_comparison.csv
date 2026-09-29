@@ -1,0 +1,7 @@
+protocol,metric,basic,control,customized
+vanilla,accuracy,0.7769,0.7757,0.7632
+cot,accuracy,0.7794,0.7782,0.7845
+topk,accuracy,0.7744,0.7801,0.7644
+vanilla,macro_f1,0.7257,0.7376,0.6873
+cot,macro_f1,0.7316,0.7403,0.7282
+topk,macro_f1,0.7184,0.7390,0.6816

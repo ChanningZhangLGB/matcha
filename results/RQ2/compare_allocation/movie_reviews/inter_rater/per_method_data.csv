@@ -1,0 +1,562 @@
+dataset,measure,model,method,X,accuracy,best_route
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,0,0.7483,
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,5,0.7517,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,10,0.757,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,15,0.7617,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,20,0.7644,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,25,0.7677,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,30,0.767,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,35,0.773,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,40,0.7877,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,45,0.7897,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,50,0.8017,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,55,0.7951,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,60,0.8117,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,65,0.8178,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,70,0.8191,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,75,0.8171,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,80,0.8164,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,85,0.8304,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,90,0.8231,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,95,0.8231,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MajorityVote,100,0.771,
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,0,0.7483,
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,5,0.7517,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,10,0.757,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,15,0.7637,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,20,0.7677,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,25,0.767,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,30,0.7664,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,35,0.775,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,40,0.7864,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,45,0.787,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,50,0.8024,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,55,0.7937,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,60,0.8111,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,65,0.8158,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,70,0.8178,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,75,0.8111,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,80,0.8111,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,85,0.8251,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,90,0.8178,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,95,0.8184,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,Wawa,100,0.7864,
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,0,0.7483,
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,5,0.7543,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,10,0.761,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,15,0.7664,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,20,0.7717,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,25,0.7724,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,30,0.769,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,35,0.779,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,40,0.7864,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,45,0.7864,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,50,0.8031,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,55,0.7911,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,60,0.8097,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,65,0.8151,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,70,0.8191,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,75,0.8104,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,80,0.8104,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,85,0.8244,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,90,0.8171,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,95,0.8184,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,ZeroBasedSkill,100,0.7924,
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,0,0.7483,
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,5,0.7537,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,10,0.7617,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,15,0.767,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,20,0.7797,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,25,0.773,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,30,0.7697,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,35,0.771,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,40,0.7817,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,45,0.7837,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,50,0.7897,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,55,0.7897,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,60,0.8044,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,65,0.8104,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,70,0.8158,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,75,0.8171,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,80,0.8124,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,85,0.8264,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,90,0.8231,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,95,0.8191,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,DawidSkene,100,0.7824,
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,0,0.7483,
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,5,0.7503,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,10,0.753,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,15,0.755,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,20,0.7577,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,25,0.7583,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,30,0.761,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,35,0.7704,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,40,0.7784,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,45,0.777,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,50,0.7924,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,55,0.771,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,60,0.7937,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,65,0.7957,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,70,0.7931,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,75,0.7844,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,80,0.7864,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,85,0.8017,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,90,0.7884,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,95,0.7931,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,OneCoinDawidSkene,100,0.7824,
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,0,0.7483,
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,5,0.7543,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,10,0.759,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,15,0.7623,h-human
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,20,0.7657,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,25,0.7657,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,30,0.771,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,35,0.779,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,40,0.787,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,45,0.7891,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,50,0.8037,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,55,0.7904,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,60,0.8071,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,65,0.8117,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,70,0.8117,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,75,0.8051,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,80,0.8064,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,85,0.8204,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,90,0.8111,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,GLAD,95,0.8124,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MACE,0,0.7483,
+movie_reviews,inter_rater,gpt-4o-mini,MACE,5,0.7543,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MACE,10,0.761,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MACE,15,0.7644,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MACE,20,0.7704,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MACE,25,0.7657,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MACE,30,0.769,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MACE,35,0.7804,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MACE,40,0.779,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,45,0.7824,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,50,0.7971,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,55,0.7804,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,60,0.8024,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,65,0.8031,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,70,0.8017,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,75,0.7971,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,80,0.7991,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,85,0.8057,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,90,0.7877,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MACE,95,0.7911,h-human
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,0,0.7483,
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,5,0.7523,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,10,0.759,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,15,0.7664,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,20,0.769,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,25,0.771,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,30,0.7697,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,35,0.7724,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,40,0.7757,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,45,0.7797,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,50,0.7917,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,55,0.7764,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,60,0.7951,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,65,0.7991,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,70,0.8024,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,75,0.7951,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,80,0.7937,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,85,0.8071,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,90,0.7977,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,95,0.7957,h-human_llm
+movie_reviews,inter_rater,gpt-4o-mini,MMSR,100,0.7417,
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),0,0.7483,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),5,0.7503,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),10,0.7563,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),15,0.7617,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),20,0.7644,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),25,0.7657,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),30,0.7644,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),35,0.7717,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),40,0.7644,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),45,0.7704,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),50,0.783,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),55,0.769,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),60,0.7857,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),65,0.7904,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),70,0.7904,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),75,0.7784,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),80,0.7777,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),85,0.7911,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),90,0.7757,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),95,0.7724,h-human
+movie_reviews,inter_rater,gpt-4o-mini,CoAnnotating (baseline),100,0.771,h-human
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,0,0.7437,
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,5,0.7557,h-human
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,10,0.7623,h-human
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,15,0.775,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,20,0.7764,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,25,0.7837,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,30,0.7757,h-human
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,35,0.783,h-human
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,40,0.779,h-human
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,45,0.7717,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,50,0.777,h-human
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,55,0.779,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,60,0.7724,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,65,0.8091,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,70,0.8138,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,75,0.8164,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,80,0.8278,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,85,0.8271,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,90,0.8298,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,95,0.8304,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MajorityVote,100,0.771,
+movie_reviews,inter_rater,llama3.1-8b,Wawa,0,0.7437,
+movie_reviews,inter_rater,llama3.1-8b,Wawa,5,0.7557,h-human
+movie_reviews,inter_rater,llama3.1-8b,Wawa,10,0.7637,h-human
+movie_reviews,inter_rater,llama3.1-8b,Wawa,15,0.777,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,20,0.7784,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,25,0.7844,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,30,0.7837,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,35,0.7924,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,40,0.7897,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,45,0.7844,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,50,0.7904,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,55,0.7917,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,60,0.7844,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,65,0.8017,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,70,0.8051,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,75,0.8077,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,80,0.8191,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,85,0.8204,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,90,0.8218,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,95,0.8224,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,Wawa,100,0.7864,
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,0,0.7437,
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,5,0.7557,h-human
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,10,0.767,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,15,0.775,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,20,0.777,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,25,0.783,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,30,0.7897,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,35,0.7991,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,40,0.8017,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,45,0.7964,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,50,0.8031,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,55,0.8077,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,60,0.8004,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,65,0.7957,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,70,0.8037,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,75,0.8071,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,80,0.8178,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,85,0.8198,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,90,0.8211,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,95,0.8204,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,ZeroBasedSkill,100,0.7924,
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,0,0.7437,
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,5,0.755,h-human
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,10,0.7697,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,15,0.7777,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,20,0.781,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,25,0.7864,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,30,0.7931,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,35,0.8024,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,40,0.7937,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,45,0.785,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,50,0.7917,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,55,0.7951,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,60,0.7864,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,65,0.785,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,70,0.7857,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,75,0.7951,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,80,0.8084,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,85,0.8077,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,90,0.8144,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,95,0.8158,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,DawidSkene,100,0.7824,
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,0,0.7437,
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,5,0.757,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,10,0.7617,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,15,0.771,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,20,0.7724,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,25,0.7784,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,30,0.785,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,35,0.7937,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,40,0.7957,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,45,0.7937,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,50,0.7997,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,55,0.7944,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,60,0.7924,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,65,0.7917,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,70,0.7924,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,75,0.7897,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,80,0.7984,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,85,0.8044,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,90,0.8017,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,95,0.7984,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,OneCoinDawidSkene,100,0.7824,
+movie_reviews,inter_rater,llama3.1-8b,GLAD,0,0.7437,
+movie_reviews,inter_rater,llama3.1-8b,GLAD,5,0.7577,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,10,0.7637,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,15,0.7757,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,20,0.777,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,25,0.7824,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,30,0.7864,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,35,0.7951,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,40,0.7931,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,45,0.7884,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,50,0.7937,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,55,0.7984,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,60,0.7937,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,65,0.7911,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,70,0.7977,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,75,0.8017,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,80,0.8131,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,85,0.8171,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,90,0.8164,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,GLAD,95,0.8178,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,0,0.7437,
+movie_reviews,inter_rater,llama3.1-8b,MACE,5,0.7597,h-human
+movie_reviews,inter_rater,llama3.1-8b,MACE,10,0.7664,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,15,0.7757,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,20,0.777,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,25,0.781,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,30,0.7884,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,35,0.7964,h-human
+movie_reviews,inter_rater,llama3.1-8b,MACE,40,0.7977,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,45,0.7897,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,50,0.7984,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,55,0.7991,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,60,0.7944,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MACE,65,0.7804,h-human
+movie_reviews,inter_rater,llama3.1-8b,MACE,70,0.7844,h-human
+movie_reviews,inter_rater,llama3.1-8b,MACE,75,0.7877,h-human
+movie_reviews,inter_rater,llama3.1-8b,MACE,80,0.7977,h-human
+movie_reviews,inter_rater,llama3.1-8b,MACE,85,0.8044,h-human
+movie_reviews,inter_rater,llama3.1-8b,MACE,90,0.7971,h-human
+movie_reviews,inter_rater,llama3.1-8b,MACE,95,0.7897,h-human
+movie_reviews,inter_rater,llama3.1-8b,MMSR,0,0.7437,
+movie_reviews,inter_rater,llama3.1-8b,MMSR,5,0.7543,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,10,0.7623,h-human
+movie_reviews,inter_rater,llama3.1-8b,MMSR,15,0.7664,h-human
+movie_reviews,inter_rater,llama3.1-8b,MMSR,20,0.7677,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,25,0.7784,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,30,0.7697,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,35,0.7797,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,40,0.7957,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,45,0.7864,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,50,0.7937,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,55,0.7964,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,60,0.7911,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,65,0.783,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,70,0.785,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,75,0.7884,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,80,0.8011,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,85,0.7977,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,90,0.7984,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,95,0.7977,h-human_llm
+movie_reviews,inter_rater,llama3.1-8b,MMSR,100,0.7417,
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),0,0.7437,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),5,0.7557,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),10,0.7623,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),15,0.771,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),20,0.767,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),25,0.7717,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),30,0.7757,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),35,0.783,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),40,0.779,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),45,0.7704,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),50,0.777,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),55,0.7777,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),60,0.7697,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),65,0.7657,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),70,0.7724,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),75,0.773,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),80,0.7817,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),85,0.7784,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),90,0.779,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),95,0.7757,h-human
+movie_reviews,inter_rater,llama3.1-8b,CoAnnotating (baseline),100,0.771,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,0,0.6816,
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,5,0.6976,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,10,0.7069,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,15,0.7243,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,20,0.7423,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,25,0.757,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,30,0.773,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,35,0.7744,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,40,0.7824,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,45,0.7817,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,50,0.7757,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,55,0.7884,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,60,0.7904,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,65,0.8037,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,70,0.8117,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,75,0.8117,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,80,0.8091,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,85,0.8124,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,90,0.8097,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,95,0.8091,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MajorityVote,100,0.771,
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,0,0.6816,
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,5,0.6996,h-human
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,10,0.7116,h-human
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,15,0.727,h-human
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,20,0.745,h-human
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,25,0.7617,h-human
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,30,0.7724,h-human
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,35,0.7704,h-human
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,40,0.777,h-human
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,45,0.7777,h-human
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,50,0.773,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,55,0.7891,h-human
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,60,0.7844,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,65,0.7984,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,70,0.8064,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,75,0.8057,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,80,0.8004,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,85,0.8031,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,90,0.8011,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,95,0.7997,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,Wawa,100,0.7864,
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,0,0.6816,
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,5,0.7016,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,10,0.713,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,15,0.7296,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,20,0.749,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,25,0.7657,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,30,0.7717,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,35,0.771,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,40,0.779,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,45,0.7784,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,50,0.775,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,55,0.7937,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,60,0.7864,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,65,0.8004,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,70,0.8084,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,75,0.8104,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,80,0.8017,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,85,0.8057,h-human
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,90,0.8004,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,95,0.7971,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,ZeroBasedSkill,100,0.7924,
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,0,0.6816,
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,5,0.7043,h-human
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,10,0.7143,h-human
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,15,0.731,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,20,0.7497,h-human
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,25,0.7637,h-human
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,30,0.7704,h-human
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,35,0.771,h-human
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,40,0.7797,h-human
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,45,0.7777,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,50,0.773,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,55,0.7897,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,60,0.7924,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,65,0.7991,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,70,0.8051,h-human
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,75,0.8091,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,80,0.8057,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,85,0.8104,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,90,0.8071,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,95,0.7991,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,DawidSkene,100,0.7824,
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,0,0.6816,
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,5,0.7003,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,10,0.7116,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,15,0.7263,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,20,0.7463,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,25,0.763,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,30,0.765,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,35,0.7623,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,40,0.767,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,45,0.7657,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,50,0.759,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,55,0.779,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,60,0.7637,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,65,0.783,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,70,0.7897,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,75,0.7944,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,80,0.7824,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,85,0.7891,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,90,0.7844,h-human
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,95,0.7837,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,OneCoinDawidSkene,100,0.7824,
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,0,0.6816,
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,5,0.7009,h-human
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,10,0.7123,h-human
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,15,0.725,h-human
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,20,0.745,h-human
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,25,0.7637,h-human
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,30,0.7697,h-human
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,35,0.7657,h-human
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,40,0.773,h-human
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,45,0.771,h-human
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,50,0.769,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,55,0.7857,h-human
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,60,0.781,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,65,0.7951,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,70,0.8037,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,75,0.8064,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,80,0.7957,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,85,0.8004,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,90,0.7984,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,GLAD,95,0.7971,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MACE,0,0.6816,
+movie_reviews,inter_rater,qwen2.5-7b,MACE,5,0.7036,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,10,0.7136,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,15,0.7263,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,20,0.7463,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,25,0.7637,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,30,0.7704,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,35,0.7717,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,40,0.7777,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,45,0.7744,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,50,0.773,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,55,0.7891,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,60,0.785,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,65,0.8011,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,70,0.8097,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,75,0.8131,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,80,0.7984,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,85,0.8024,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,90,0.7931,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MACE,95,0.7904,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,0,0.6816,
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,5,0.7003,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,10,0.7083,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,15,0.7236,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,20,0.7363,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,25,0.753,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,30,0.763,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,35,0.7603,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,40,0.777,h-human
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,45,0.765,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,50,0.7657,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,55,0.777,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,60,0.7664,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,65,0.7784,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,70,0.783,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,75,0.7784,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,80,0.7744,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,85,0.7777,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,90,0.7684,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,95,0.7877,h-human_llm
+movie_reviews,inter_rater,qwen2.5-7b,MMSR,100,0.7417,
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),0,0.6816,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),5,0.6976,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),10,0.7069,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),15,0.7223,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),20,0.7403,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),25,0.7563,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),30,0.773,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),35,0.7744,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),40,0.7824,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),45,0.7817,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),50,0.7603,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),55,0.7777,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),60,0.773,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),65,0.7857,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),70,0.7931,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),75,0.7911,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),80,0.781,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),85,0.7864,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),90,0.7797,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),95,0.7724,h-human
+movie_reviews,inter_rater,qwen2.5-7b,CoAnnotating (baseline),100,0.771,h-human

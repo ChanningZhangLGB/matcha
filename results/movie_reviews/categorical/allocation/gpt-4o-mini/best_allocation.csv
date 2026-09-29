@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source,human_judgments_full,judgments_at_peak,judgments_saved,judgments_saved_pct
+gpt-4o-mini,movie_reviews,0.7483,0.7924,ZeroBasedSkill,0.8231,MajorityVote,0.8304,85,MajorityVote,entropy,human_plus_llm,216.71,0.540,184.74,31.97,14.8%,+0.0380,7.0,measured,"7,430","6,318","1,112",15.0%

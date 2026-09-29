@@ -1,0 +1,3 @@
+metric,human-only: DawidSkene,human-only: MajorityVote,human-only: GLAD,human-only: Wawa,human-only: MMSR,human-only: MACE,human-only: ZeroBasedSkill,human-only: OneCoinDawidSkene,llm-only: gpt-4o-mini,llm-only: llama3.1-8b-instruct-q8_0,llm-only: qwen2.5-7b-instruct-q8_0
+Acc,0.7600,0.7631,0.7672,0.7631,0.7662,0.7692,0.7631,0.7651,0.7713,0.7579,0.7692
+macro_f1,0.6065,0.5462,0.5517,0.5462,0.5533,0.5556,0.5462,0.5401,0.6304,0.6302,0.6316

@@ -1,0 +1,12 @@
+Read the sentence below, taken from a movie review.
+
+Sentence: {sentence}
+
+Statement: The sentiment expressed in this sentence is {polarity}.
+
+Is this statement true or false? You must answer True or False.
+
+Provide your answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"answer": "True" or "False", "confidence": <integer 0-100>}}

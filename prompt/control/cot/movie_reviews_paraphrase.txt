@@ -1,0 +1,12 @@
+Below is a short excerpt from a movie review. Work out how many stars, on a scale from
+0 to 10, the reviewer awarded the film. Base this on what the reviewer's own verdict appears
+to be, rather than on how you would rate the movie yourself.
+
+Review: {text}
+
+Work through the review step by step: note which remarks are favourable and which are
+critical, and how emphatic each is, then deduce the score the reviewer gave. Then provide
+your answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"reasoning": "<2-3 sentences>", "answer": <integer 0-10>, "confidence": <integer 0-100>}}

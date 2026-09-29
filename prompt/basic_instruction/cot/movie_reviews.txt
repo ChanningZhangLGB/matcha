@@ -1,0 +1,13 @@
+Rate movies based on their review.
+
+Given a short review text, predict the number of stars (from 0 to 10) that the movie got from
+that reviewer. Judge what rating the reviewer gave, not your own opinion of the movie.
+
+Review: {text}
+
+Analyze the review step by step: identify the positive and negative statements the reviewer
+makes and how strongly they are worded, then infer the star rating they gave. Then provide
+your answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"reasoning": "<2-3 sentences>", "answer": <integer 0-10>, "confidence": <integer 0-100>}}

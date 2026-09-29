@@ -1,0 +1,9 @@
+Read the sentence below, taken from a movie review, and decide whether the sentiment it
+expresses is positive or negative. You must choose one; there is no neutral option.
+
+Sentence: {sentence}
+
+Provide your 2 best guesses and the probability that each is correct (0% to 100%).
+
+Respond with ONLY a JSON object, no other text.
+{{"guesses": [{{"answer": "pos" or "neg", "probability": <integer 0-100>}}, ...]}}

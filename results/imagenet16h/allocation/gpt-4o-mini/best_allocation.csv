@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source,human_judgments_full,judgments_at_peak,judgments_saved,judgments_saved_pct
+gpt-4o-mini,imagenet16h,0.7973,0.8767,Wawa,0.8821,GLAD,0.8840,95,GLAD,entropy,human_plus_llm,441.87,19.016,438.79,3.08,0.7%,+0.0073,3.7,measured,"28,991","27,539","1,452",5.0%

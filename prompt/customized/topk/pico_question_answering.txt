@@ -1,0 +1,15 @@
+Below is the abstract of a medical clinical-trial article.
+
+Abstract: {text}
+
+Question: Who were the participants in this trial?
+
+Answer by quoting, word for word, every passage of the abstract that describes them - their
+number, condition, age, sex, or any other characteristic identifying who was studied. Do not
+paraphrase. Return an empty list if the abstract does not say.
+
+Provide your 3 best guesses for the complete answer, and the probability that each is
+correct (0% to 100%). Order from most to least likely.
+
+Respond with ONLY a JSON object, no other text.
+{{"guesses": [{{"answer": ["<exact span>", ...], "probability": <integer 0-100>}}, ...]}}

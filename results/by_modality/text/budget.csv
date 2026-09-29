@@ -1,0 +1,22 @@
+model,dataset,instances,human_judgments,sec_per_judgment,timing_source,human_cost_usd,llm_cost_usd,llm_hosting,llm_tokens_in,llm_tokens_out,human_per_instance_usd,llm_per_instance_usd,cost_ratio_human_over_llm,saving_at_X5,saving_at_X10,saving_at_X25,saving_at_X50,saving_at_X75
+gpt-4o-mini,sentiment,4999,27746,8.0,assumed,924.87,0.599,hosted API,1928162,516034,0.1850,0.00012,1544x,94.9%,89.9%,74.9%,49.9%,24.9%
+gpt-4o-mini,movie_reviews,1498,7430,7.0,measured,216.71,0.540,hosted API,2737259,215948,0.1447,0.00036,401x,94.8%,89.8%,74.8%,49.8%,24.8%
+gpt-4o-mini,crowdtruth_cause,975,14920,31.0,measured,1927.17,0.175,hosted API,1712589,156172,1.9766,0.00018,10994x,95.0%,90.0%,75.0%,50.0%,25.0%
+gpt-4o-mini,crowdtruth_treat,621,9610,31.0,measured,1241.29,0.175,hosted API,1712589,156172,1.9989,0.00028,7081x,95.0%,90.0%,75.0%,50.0%,25.0%
+gpt-4o-mini,conll_ner_5k,5001,23366,45.0,assumed,4381.12,0.192,hosted API,275437,251733,0.8760,0.00004,22776x,95.0%,90.0%,75.0%,50.0%,25.0%
+gpt-4o-mini,pico_5k,5034,31119,150.0,assumed,19449.38,0.065,hosted API,284602,36700,3.8636,0.00001,300561x,95.0%,90.0%,75.0%,50.0%,25.0%
+gpt-4o-mini,quiz,155,8930,20.0,assumed,744.17,0.026,hosted API,95646,19003,4.8011,0.00017,28901x,95.0%,90.0%,75.0%,50.0%,25.0%
+llama3.1-8b-instruct-q8_0,sentiment,4999,27746,8.0,assumed,924.87,0.000,local (free),1981982,649929,0.1850,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+llama3.1-8b-instruct-q8_0,movie_reviews,1498,7430,7.0,measured,216.71,0.000,local (free),2794106,257777,0.1447,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+llama3.1-8b-instruct-q8_0,crowdtruth_cause,975,14920,31.0,measured,1927.17,0.000,local (free),1748652,183246,1.9766,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+llama3.1-8b-instruct-q8_0,crowdtruth_treat,621,9610,31.0,measured,1241.29,0.000,local (free),1748652,183246,1.9989,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+llama3.1-8b-instruct-q8_0,conll_ner_5k,5001,23366,45.0,assumed,4381.12,0.000,local (free),237853,202071,0.8760,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+llama3.1-8b-instruct-q8_0,pico_5k,5034,31119,150.0,assumed,19449.38,0.000,local (free),288326,67882,3.8636,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+llama3.1-8b-instruct-q8_0,quiz,155,8930,20.0,assumed,744.17,0.000,local (free),95841,26118,4.8011,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+qwen2.5-7b-instruct-q8_0,sentiment,4999,27746,8.0,assumed,924.87,0.000,local (free),2308060,471419,0.1850,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+qwen2.5-7b-instruct-q8_0,movie_reviews,1498,7430,7.0,measured,216.71,0.000,local (free),2911742,182488,0.1447,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+qwen2.5-7b-instruct-q8_0,crowdtruth_cause,975,14920,31.0,measured,1927.17,0.000,local (free),1814319,135039,1.9766,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+qwen2.5-7b-instruct-q8_0,crowdtruth_treat,621,9610,31.0,measured,1241.29,0.000,local (free),1814319,135039,1.9989,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+qwen2.5-7b-instruct-q8_0,conll_ner_5k,5001,23366,45.0,assumed,4381.12,0.000,local (free),275938,176160,0.8760,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+qwen2.5-7b-instruct-q8_0,pico_5k,5034,31119,150.0,assumed,19449.38,0.000,local (free),309536,40057,3.8636,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%
+qwen2.5-7b-instruct-q8_0,quiz,155,8930,20.0,assumed,744.17,0.000,local (free),106510,18070,4.8011,0.00000,inf,95.0%,90.0%,75.0%,50.0%,25.0%

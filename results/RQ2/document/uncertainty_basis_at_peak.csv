@@ -1,0 +1,25 @@
+modality,dataset,model,peak_accuracy,winning_basis,aggregator,route,X,conf_peak,entropy_peak,inter_rater_peak,entropy_eq_inter_rater,margin_over_confidence
+text,Sentiment Polarity,GPT-4o-mini,0.9370,entropy,OneCoinDawidSkene,human_plus_llm,55,0.9270,0.9370,0.9370,yes,+0.0100
+text,Sentiment Polarity,Llama3.1-8B,0.9302,entropy,OneCoinDawidSkene,human_plus_llm,65,0.9276,0.9302,0.9302,yes,+0.0026
+text,Sentiment Polarity,Qwen2.5-7B,0.9296,entropy,MACE,human_plus_llm,20,0.9266,0.9296,0.9296,yes,+0.0030
+text,MovieReviews,GPT-4o-mini,0.8304,entropy,MajorityVote,human_plus_llm,85,0.8204,0.8304,0.8304,yes,+0.0100
+text,MovieReviews,Llama3.1-8B,0.8304,entropy,MajorityVote,human_plus_llm,95,0.8298,0.8304,0.8304,yes,+0.0006
+text,MovieReviews,Qwen2.5-7B,0.8131,entropy,MACE,human_only,75,0.8071,0.8131,0.8131,yes,+0.0060
+text,CrowdTruth RelEx,GPT-4o-mini,0.7957,confidence,DawidSkene,human_only,90,0.7957,0.7951,0.7951,yes,+0.0000
+text,CrowdTruth RelEx,Llama3.1-8B,0.8001,entropy,MACE,human_only,30,0.7957,0.8001,0.8001,yes,+0.0044
+text,CrowdTruth RelEx,Qwen2.5-7B,0.8020,confidence,DawidSkene,human_plus_llm,70,0.8020,0.7951,0.7951,yes,+0.0000
+text,CoNLL-2003 NER,GPT-4o-mini,0.9503,confidence,DawidSkene,human_plus_llm,80,0.9503,0.9491,0.9502,no,+0.0000
+text,CoNLL-2003 NER,Llama3.1-8B,0.9393,confidence,DawidSkene,human_only,95,0.9393,0.9385,0.9329,no,+0.0000
+text,CoNLL-2003 NER,Qwen2.5-7B,0.9425,entropy,DawidSkene,human_plus_llm,95,0.9411,0.9425,0.9398,no,+0.0014
+text,PICO,GPT-4o-mini,0.9615,entropy,ZeroBasedSkill,human_only,95,0.9577,0.9615,0.9615,yes,+0.0038
+text,PICO,Llama3.1-8B,0.9615,entropy,ZeroBasedSkill,human_only,95,0.9599,0.9615,0.9615,yes,+0.0016
+text,PICO,Qwen2.5-7B,0.9615,entropy,ZeroBasedSkill,human_only,95,0.9507,0.9615,0.9615,yes,+0.0108
+text,QUIZ,GPT-4o-mini,0.8774,entropy,OneCoinDawidSkene,human_plus_llm,10,0.8581,0.8774,0.8710,no,+0.0193
+text,QUIZ,Llama3.1-8B,0.8000,entropy,MACE,human_only,55,0.7290,0.8000,0.8000,yes,+0.0710
+text,QUIZ,Qwen2.5-7B,0.8129,entropy,MMSR,human_plus_llm,45,0.7613,0.8129,0.8129,yes,+0.0516
+image,LabelMe,GPT-4o-mini,0.8320,entropy,MMSR,human_only,35,0.8300,0.8320,0.8320,yes,+0.0020
+image,LabelMe,MiniCPM-V-8B,0.8200,confidence,DawidSkene,human_only,70,0.8200,0.8170,0.8170,yes,+0.0000
+image,LabelMe,Qwen2.5VL-7B,0.8280,entropy,DawidSkene,human_only,70,0.8170,0.8280,0.8280,yes,+0.0110
+image,ImageNet-16H,GPT-4o-mini,0.8840,entropy,GLAD,human_plus_llm,95,0.8838,0.8840,0.8840,yes,+0.0002
+image,ImageNet-16H,MiniCPM-V-8B,0.8792,entropy,GLAD,human_plus_llm,95,0.8783,0.8792,0.8788,no,+0.0009
+image,ImageNet-16H,Qwen2.5VL-7B,0.8771,confidence,ZeroBasedSkill,human_plus_llm,85,0.8771,0.8758,0.8758,yes,+0.0000

@@ -1,0 +1,18 @@
+Below is a question offering several possible answers. Exactly one of them is correct;
+identify it.
+
+The question is drawn from a crowdsourced quiz and may be in English, Japanese, or Chinese.
+Work with it in whichever language it is written; do not translate it first.
+
+Question: {question}
+
+Options:
+{options}
+
+State your choice as the LETTER that identifies that option, drawn from: {letters}.
+
+Give your 3 most likely answers together with the probability that each one is right
+(0% to 100%). List them from most to least likely.
+
+Respond with ONLY a JSON object, no other text.
+{{"guesses": [{{"answer": "<letter>", "probability": <integer 0-100>}}, ...]}}

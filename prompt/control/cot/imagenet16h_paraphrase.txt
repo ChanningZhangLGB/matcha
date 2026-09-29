@@ -1,0 +1,16 @@
+The picture below shows a single object. Identify it.
+
+The photo is greyscale and has had visual noise added to it, which may make it difficult to
+read. Do the best you can with it.
+
+Exactly one of the following 16 categories applies:
+airplane, bear, bicycle, bird, boat, bottle, car, cat, chair, clock, dog, elephant, keyboard, knife, oven, truck
+
+A choice is required; "none of the above" is not available.
+
+Work through the image step by step: set out what shapes and textures survive the
+noise, then settle on the category they best match. Then provide your answer and
+your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"reasoning": "<1-2 sentences>", "answer": "<category>", "confidence": <integer 0-100>}}

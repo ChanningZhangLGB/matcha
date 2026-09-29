@@ -1,0 +1,10 @@
+# labelme - summary
+
+**Human-only**: the 8 unsupervised crowd-kit aggregators over the human annotations.  
+**LLM-only**: majority vote over that model's protocol x prompt-strategy conditions.
+
+| | **DawidSkene** | **MajorityVote** | **GLAD** | **Wawa** | **MMSR** | **MACE** | **ZeroBasedSkill** | **OneCoinDawidSkene** | **gpt-4o-mini** | **minicpm-v-8b-2.6-q8_0** | **qwen2.5vl-7b-q8_0** |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| | *Human-only* |  |  |  |  |  |  |  | *LLM-only* |  |  |
+| **Acc** | 0.7920 | 0.7620 | 0.7750 | 0.7640 | 0.7670 | 0.7730 | 0.7780 | 0.7670 | 0.8140 | 0.7460 | 0.7600 |
+| **macro_f1** | 0.7861 | 0.7556 | 0.7701 | 0.7583 | 0.7617 | 0.7682 | 0.7739 | 0.7613 | 0.8117 | 0.7132 | 0.7282 |

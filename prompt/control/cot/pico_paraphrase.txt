@@ -1,0 +1,16 @@
+The text below is an abstract from a clinical-trial paper. Mark the passages that
+characterise the trial's PARTICIPANTS - the people enrolled in the study, including how many
+there were, what condition they had, their age or sex, or anything else identifying who was
+studied.
+
+Reproduce each passage word for word as it appears. Do not reword it. Return an empty list if
+the abstract describes no participants.
+
+Abstract: {text}
+
+Work through the abstract step by step: find where it introduces the people studied, then
+copy out those passages verbatim. Then provide your answer and your confidence in this
+answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"reasoning": "<2-3 sentences>", "answer": ["<exact span>", ...], "confidence": <integer 0-100>}}

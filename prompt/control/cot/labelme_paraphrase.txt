@@ -1,0 +1,13 @@
+The picture below shows a scene of one particular kind. Work out which kind.
+
+Exactly one of the following 8 categories applies:
+coast, forest, highway, insidecity, mountain, opencountry, street, tallbuilding
+
+A choice is required; "none of the above" is not available.
+
+Work through the image step by step: set out the main things visible and how the
+scene is arranged, then settle on the category it best matches. Then provide your
+answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"reasoning": "<1-2 sentences>", "answer": "<category>", "confidence": <integer 0-100>}}

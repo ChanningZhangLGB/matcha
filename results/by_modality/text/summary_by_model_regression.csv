@@ -1,0 +1,13 @@
+dataset,metric,model,LLM-only,human-only,best aggregator,human+LLM,best aggregator
+movie_reviews,MAE,gpt-4o-mini,0.0949,0.0436,shipped_DS,0.0476,EMBias
+movie_reviews,MAE,llama3.1-8b,0.1071,0.0436,shipped_DS,0.0476,EMBias
+movie_reviews,MAE,qwen2.5-7b,0.1150,0.0436,shipped_DS,0.0484,EMBias
+movie_reviews,RMSE,gpt-4o-mini,0.1206,0.0535,shipped_DS,0.0571,EMBias
+movie_reviews,RMSE,llama3.1-8b,0.1347,0.0535,shipped_DS,0.0571,EMBias
+movie_reviews,RMSE,qwen2.5-7b,0.1490,0.0535,shipped_DS,0.0578,EMBias
+movie_reviews,R2,gpt-4o-mini,0.5653,0.9143,shipped_DS,0.9027,EMBias
+movie_reviews,R2,llama3.1-8b,0.4580,0.9143,shipped_DS,0.9025,EMBias
+movie_reviews,R2,qwen2.5-7b,0.3363,0.9143,shipped_DS,0.9001,EMBias
+movie_reviews,r,gpt-4o-mini,0.8788,0.9736,shipped_DS,0.9697,EMBias
+movie_reviews,r,llama3.1-8b,0.8707,0.9736,shipped_DS,0.9695,EMBias
+movie_reviews,r,qwen2.5-7b,0.8026,0.9736,shipped_DS,0.9687,EMBias

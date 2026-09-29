@@ -1,0 +1,4 @@
+model,conditions,MAE,RMSE,R2
+gpt-4o-mini,9 conditions,0.1098,0.1351,0.4544
+llama3.1-8b,9 conditions,0.1033,0.1320,0.4792
+qwen2.5-7b,9 conditions,0.1171,0.1464,0.3598

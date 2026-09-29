@@ -1,0 +1,17 @@
+Answer the multiple-choice question below by choosing exactly one option.
+
+The question comes from a crowdsourced quiz. It may be written in English, Japanese, or
+Chinese; answer it as written rather than translating it first.
+
+Question: {question}
+
+Options:
+{options}
+
+Reply with the LETTER of the option you choose, one of: {letters}.
+
+Provide your 3 best guesses and the probability that each is correct (0% to 100%).
+Order from most to least likely.
+
+Respond with ONLY a JSON object, no other text.
+{{"guesses": [{{"answer": "<letter>", "probability": <integer 0-100>}}, ...]}}

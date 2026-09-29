@@ -1,0 +1,20 @@
+# imagenet16h - Human + LLM
+
+The LLM joins the human crowd as **one extra annotator**; all 8 aggregators are then re-fitted on the combined pool.  
+One row per model per metric; compare against the Human-only row of `summary_table.md`.
+
+| model | metric | DawidSkene | MajorityVote | GLAD | Wawa | MMSR | MACE | ZeroBasedSkill | OneCoinDawidSkene |
+|---|---|--:|--:|--:|--:|--:|--:|--:|--:|
+| gpt-4o-mini | Acc | 0.8765 | 0.8771 | 0.8821 | 0.8817 | 0.8804 | 0.8802 | 0.8819 | 0.8812 |
+| gpt-4o-mini | macro_f1 | 0.8307 | 0.8763 | 0.8296 | 0.8809 | 0.8797 | 0.8282 | 0.8812 | 0.8805 |
+| minicpm-v-8b-2.6-q8_0 | Acc | 0.8696 | 0.8738 | 0.8781 | 0.8779 | 0.8775 | 0.8775 | 0.8773 | 0.8771 |
+| minicpm-v-8b-2.6-q8_0 | macro_f1 | 0.8326 | 0.8731 | 0.8775 | 0.8772 | 0.8768 | 0.8275 | 0.8766 | 0.8764 |
+| qwen2.5vl-7b-q8_0 | Acc | 0.8715 | 0.8712 | 0.8769 | 0.8765 | 0.8762 | 0.8746 | 0.8767 | 0.8756 |
+| qwen2.5vl-7b-q8_0 | macro_f1 | 0.8243 | 0.8704 | 0.8763 | 0.8758 | 0.8757 | 0.8740 | 0.8760 | 0.8750 |
+
+**Human-only reference**
+
+| | DawidSkene | MajorityVote | GLAD | Wawa | MMSR | MACE | ZeroBasedSkill | OneCoinDawidSkene |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|
+| Acc | 0.8760 | 0.8715 | 0.8765 | 0.8767 | 0.8746 | 0.8765 | 0.8762 | 0.8760 |
+| macro_f1 | 0.8758 | 0.8706 | 0.8758 | 0.8760 | 0.8739 | 0.8758 | 0.8755 | 0.8753 |

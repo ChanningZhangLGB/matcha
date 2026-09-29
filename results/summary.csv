@@ -1,0 +1,30 @@
+Modality,Dataset,Human-only,GPT-4o-mini,,,,,,,Llama3.1-8B,,,,,,, Qwen2.5-7B,,,,,,
+,,,LLM-only,Crowd-LLM,,,CoAnnotating,MATCHA,,LLM-only,Crowd-LLM,,,CoAnnotating,MATCHA,,LLM-only,Crowd-LLM,,,CoAnnotating,MATCHA,
+,,,,,,,,Human-led ,LLM-led,,,,,,Human-led ,LLM-led,,,,,,Human-led ,LLM-led
+Text,Sentiment Polarity,0.9166,0.9012,0.924,Uncertainty-base,Self-Eval.,0.9166,0.9222,0.9270,0.9068,0.9264,Uncertainty-base,Self-Eval.,0.9060,0.9214,0.9276,0.906,0.9252,Uncertainty-base,Self-Eval.,0.9074,0.9212,0.9266
+,,,,,,Entropy,0.9276,0.9358,0.9370,,,,Entropy,0.9240,0.9270,0.9302,,,,Entropy,0.9198,0.9278,0.9296
+,,,,,,Inter-rater,0.9276,0.9358,0.9370,,,,Inter-rater,0.9240,0.9270,0.9302,,,,Inter-rater,0.9198,0.9278,0.9296
+,MovieReviews,0.7924,0.7483,0.8231,Uncertainty-base,Self-Eval.,0.7931,0.7931,0.8204,0.7437,0.8311,Uncertainty-base,Self-Eval.,0.7964,0.7971,0.8298,0.6816,0.8097,Uncertainty-base,Self-Eval.,0.7684,0.7884,0.8071
+,,,,,,Entropy,0.7911,0.8111,0.8304,,,,Entropy,0.7830,0.8044,0.8304,,,,Entropy,0.7931,0.8131,0.8124
+,,,,,,Inter-rater,0.7911,0.8111,0.8304,,,,Inter-rater,0.7830,0.8044,0.8304,,,,Inter-rater,0.7931,0.8131,0.8124
+,CrowdTruth RelEx,0.7957,0.7845,0.7945,Uncertainty-base,Self-Eval.,0.7882,0.7957,0.7951,0.7669,0.7970,Uncertainty-base,Self-Eval.,0.7782,0.7951,0.7957,0.7813,0.7964,Uncertainty-base,Self-Eval.,0.7845,0.7976,0.8020
+,,,,,,Entropy,0.7857,0.7951,0.7926,,,,Entropy,0.7907,0.8001,0.8001,,,,Entropy,0.7851,0.7932,0.7951
+,,,,,,Inter-rater,0.7857,0.7951,0.7926,,,,Inter-rater,0.7907,0.8001,0.8001,,,,Inter-rater,0.7851,0.7932,0.7951
+,CoNLL-2003 NER,0.9418,0.9069,0.9498,Uncertainty-base,Self-Eval.,0.9209,0.9413,0.9503,0.7096,0.9412,Uncertainty-base,Self-Eval.,0.9114,0.9393,0.9391,0.8377,0.9454,Uncertainty-base,Self-Eval.,0.9107,0.9387,0.9411
+,,,,,,Entropy,0.9337,0.9431,0.9491,,,,Entropy,0.9112,0.9385,0.9379,,,,Entropy,0.9116,0.9391,0.9425
+,,,,,,Inter-rater,0.9362,0.9451,0.9502,,,,Inter-rater,0.9022,0.9322,0.9329,,,,Inter-rater,0.9075,0.9373,0.9398
+,PICO,0.9615,0.9406,0.9607,Uncertainty-base,Self-Eval.,0.9569,0.9577,0.9565,0.9118,0.9587,Uncertainty-base,Self-Eval.,0.9591,0.9599,0.9571,0.8955,0.9597,Uncertainty-base,Self-Eval.,0.9507,0.9507,0.9501
+,,,,,,Entropy,0.9607,0.9615,0.9601,,,,Entropy,0.9607,0.9615,0.9587,,,,Entropy,0.9607,0.9615,0.9597
+,,,,,,Inter-rater,0.9607,0.9615,0.9601,,,,Inter-rater,0.9607,0.9615,0.9587,,,,Inter-rater,0.9607,0.9615,0.9597
+,QUIZ,0.7226,0.8387,0.7613,Uncertainty-base,Self-Eval.,0.8387,0.8581,0.8581,0.6387,0.7355,Uncertainty-base,Self-Eval.,0.6645,0.7097,0.7290,0.7355,0.7484,Uncertainty-base,Self-Eval.,0.7290,0.7355,0.7613
+,,,,,,Entropy,0.8645,0.8710,0.8774,,,,Entropy,0.7355,0.8000,0.7935,,,,Entropy,0.7548,0.7935,0.8129
+,,,,,,Inter-rater,0.8645,0.8710,0.8710,,,,Inter-rater,0.7355,0.8000,0.7935,,,,Inter-rater,0.7548,0.7935,0.8129
+Image,Dataset,Human-only,GPT-4o-mini,,,,,,,MiniCPM-V-8B ,,,,,,,Qwen2.5VL-7B,,,,,,
+,,,LLM-only,Crowd-LLM,,,CoAnnotating,MATCHA,,LLM-only,Crowd-LLM,,,CoAnnotating,MATCHA,,LLM-only,Crowd-LLM,,,CoAnnotating,MATCHA,
+,,,,,,,,Human-led ,LLM-led,,,,,,Human-led ,LLM-led,,,,,,Human-led ,LLM-led
+,LabelMe,0.792,0.814,0.826,Uncertainty-base,Self-Eval.,0.8120,0.8120,0.8300,0.7460,0.8030,Uncertainty-base,Self-Eval.,0.8160,0.8200,0.8200,0.7600,0.8050,Uncertainty-base,Self-Eval.,0.8150,0.8150,0.8170
+,,,,,,Entropy,0.8280,0.8320,0.8300,,,,Entropy,0.8010,0.8100,0.8170,,,,Entropy,0.8230,0.8280,0.8190
+,,,,,,Inter-rater,0.8280,0.8320,0.8300,,,,Inter-rater,0.8010,0.8100,0.8170,,,,Inter-rater,0.8230,0.8280,0.8190
+,ImageNet-16H,0.8767,0.7973,0.8821,Uncertainty-base,Self-Eval.,0.8733,0.8792,0.8838,0.6229,0.8781,Uncertainty-base,Self-Eval.,0.8715,0.8769,0.8783,0.6523,0.8769,Uncertainty-base,Self-Eval.,0.8715,0.8769,0.8771
+,,,,,,Entropy,0.8733,0.8788,0.8840,,,,Entropy,0.8721,0.8777,0.8792,,,,Entropy,0.8704,0.8756,0.8758
+,,,,,,Inter-rater,0.8733,0.8788,0.8840,,,,Inter-rater,0.8721,0.8777,0.8788,,,,Inter-rater,0.8704,0.8756,0.8758

@@ -1,0 +1,18 @@
+Answer the multiple-choice question below by choosing exactly one option.
+
+The question comes from a crowdsourced quiz. It may be written in English, Japanese, or
+Chinese; answer it as written rather than translating it first.
+
+Question: {question}
+
+Options:
+{options}
+
+Reply with the LETTER of the option you choose, one of: {letters}.
+
+Analyze the question step by step: establish what is being asked, rule out the options
+that cannot be correct, then choose the best of those remaining. Then provide your
+answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"reasoning": "<1-2 sentences>", "answer": "<letter>", "confidence": <integer 0-100>}}

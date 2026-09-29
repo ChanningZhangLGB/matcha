@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source,human_judgments_full,judgments_at_peak,judgments_saved,judgments_saved_pct
+qwen2.5-7b-instruct-q8_0,crowdtruth_pooled,0.7813,0.7957,DawidSkene,0.7964,DawidSkene,0.8020,70,DawidSkene,confidence,human_plus_llm,1927.17,0.000,1349.02,578.15,30.0%,+0.0063,31.0,measured,"14,920","10,778","4,142",27.8%

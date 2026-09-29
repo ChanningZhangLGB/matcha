@@ -1,0 +1,7 @@
+metric,measure,$k$=1,$k$=3 (protocol),$k$=3 (wording),$k$=9
+ECE,confidence,0.1407 *,0.1194,0.1297,0.1145
+ECE,entropy,degenerate,0.1621,0.1565,0.1491
+ECE,inter-rater,degenerate,0.1529 ***,0.1472 ***,0.1021
+AUROC,confidence,0.6283 *,0.6604,0.6512 *,0.6749
+AUROC,entropy,degenerate,0.6395 ***,0.6694 ***,0.7382
+AUROC,inter-rater,degenerate,0.6460 ***,0.6889 ***,0.7403

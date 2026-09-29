@@ -1,0 +1,13 @@
+# secrets
+config.env
+# local environments and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# large inputs/outputs, distributed as release assets or downloaded separately
+datasets/*/
+datasets_pass/*/
+llm_output/
+*.log

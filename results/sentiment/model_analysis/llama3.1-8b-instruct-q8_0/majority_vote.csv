@@ -1,0 +1,14 @@
+condition,accuracy,macro_f1,coverage
+MAJORITY_VOTE_12,0.9068,0.9067,1.0000
+basic/cot,0.8774,0.8766,1.0000
+basic/topk,0.8968,0.8965,1.0000
+basic/vanilla,0.9010,0.9009,1.0000
+control/cot,0.8928,0.8924,1.0000
+control/topk,0.9096,0.9094,1.0000
+control/vanilla,0.9190,0.9190,1.0000
+customized/cot[negative],0.8392,0.8362,1.0000
+customized/cot[positive],0.8744,0.8742,1.0000
+customized/topk[negative],0.8782,0.8779,1.0000
+customized/topk[positive],0.8620,0.8605,1.0000
+customized/vanilla[negative],0.8802,0.8795,1.0000
+customized/vanilla[positive],0.8934,0.8932,1.0000

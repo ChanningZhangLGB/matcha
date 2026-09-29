@@ -1,0 +1,10 @@
+The sentence below comes from a movie review. Judge whether the opinion it conveys is
+favourable or unfavourable. One of the two must be chosen - a neutral verdict is not available.
+
+Sentence: {sentence}
+
+Give your 2 most likely answers together with the probability that each one is right
+(0% to 100%).
+
+Respond with ONLY a JSON object, no other text.
+{{"guesses": [{{"answer": "pos" or "neg", "probability": <integer 0-100>}}, ...]}}

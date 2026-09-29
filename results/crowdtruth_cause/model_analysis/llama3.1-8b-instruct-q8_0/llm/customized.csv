@@ -1,0 +1,4 @@
+protocol,accuracy,macro_f1,weighted_f1,f1_yes,coverage,n_scored,n_gold,mean_conf
+cot,0.7423,0.6333,0.7318,0.4334,0.9990,974,975,92.4
+topk,0.6174,0.5489,0.6356,0.3731,1.0000,975,975,80.0
+vanilla,0.6318,0.5573,0.6469,0.3757,1.0000,975,975,90.7

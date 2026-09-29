@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source,human_judgments_full,judgments_at_peak,judgments_saved,judgments_saved_pct
+gpt-4o-mini,pico_5k,0.9406,0.9615,ZeroBasedSkill,0.9607,ZeroBasedSkill,0.9615,95,ZeroBasedSkill,entropy,human_only,19449.38,0.065,18476.98,972.40,5.0%,+0.0000,150.0,assumed,"31,119","29,355","1,764",5.7%

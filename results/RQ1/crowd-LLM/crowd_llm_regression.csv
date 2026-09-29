@@ -1,0 +1,7 @@
+model,method,MAE,RMSE,R2
+gpt-4o-mini,Mean,0.0540,0.0672,0.8650
+gpt-4o-mini,EMBias,0.0476,0.0571,0.9027
+llama3.1-8b,Mean,0.0536,0.0668,0.8668
+llama3.1-8b,EMBias,0.0476,0.0571,0.9025
+qwen2.5-7b,Mean,0.0573,0.0712,0.8483
+qwen2.5-7b,EMBias,0.0484,0.0578,0.9001

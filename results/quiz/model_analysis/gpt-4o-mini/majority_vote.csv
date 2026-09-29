@@ -1,0 +1,11 @@
+condition,accuracy,macro_f1,coverage
+MAJORITY_VOTE_9,0.8387,0.8651,1.0000
+basic/cot,0.8710,0.8883,1.0000
+basic/topk,0.8258,0.8566,1.0000
+basic/vanilla,0.8452,0.8730,1.0000
+control/cot,0.8581,0.8782,1.0000
+control/topk,0.8323,0.8551,1.0000
+control/vanilla,0.8323,0.8581,1.0000
+customized/cot,0.8129,0.7972,1.0000
+customized/topk,0.8065,0.8302,1.0000
+customized/vanilla,0.8000,0.8238,1.0000

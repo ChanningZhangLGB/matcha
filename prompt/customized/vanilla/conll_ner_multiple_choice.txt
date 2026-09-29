@@ -1,0 +1,23 @@
+Sentence: {sentence}
+
+In the sentence above, consider the token at position {index}: "{token}".
+
+Which BIO tag applies to this token? Choose exactly one:
+A) O
+B) B-PER
+C) I-PER
+D) B-LOC
+E) I-LOC
+F) B-ORG
+G) I-ORG
+H) B-MISC
+I) I-MISC
+
+Tags mark named entities as person (PER), location (LOC), organization (ORG) or
+miscellaneous (MISC); B- begins an entity, I- continues one, and O marks a token that
+belongs to no named entity.
+
+Provide your answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"answer": "<letter A-I>", "confidence": <integer 0-100>}}

@@ -1,0 +1,2 @@
+model,dataset,metric,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_judgments_full,judgments_at_peak,judgments_saved,judgments_saved_pct,mae_vs_human_only
+llama3.1-8b-instruct-q8_0,movie_reviews (regression),MAE,0.1071,0.0492,EMBias,0.0476,EMBias,0.0467,95,EMBias,spread,human_plus_llm,7430,7064,366,4.9%,-0.0025

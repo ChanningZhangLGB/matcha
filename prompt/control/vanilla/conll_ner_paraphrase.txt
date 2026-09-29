@@ -1,0 +1,13 @@
+The sentence below may mention named entities. Find them and assign each to one of four
+categories: people (PER), places (LOC), organizations (ORG), or miscellaneous (MISC), the last
+covering named things that fit none of the first three, such as nationalities and events.
+
+Give every token a BIO tag, one of: B-PER, I-PER, B-LOC, I-LOC, B-ORG, I-ORG, B-MISC, I-MISC, or O when the token belongs to
+no named entity.
+
+Tokens: {tokens}
+
+Provide your answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"answer": ["<tag>", ...], "confidence": [<integer 0-100>, ...]}}

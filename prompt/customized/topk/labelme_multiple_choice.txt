@@ -1,0 +1,19 @@
+Look at the image and decide which kind of scene it shows.
+
+Which category does the image show? Choose exactly one:
+A) coast
+B) forest
+C) highway
+D) insidecity
+E) mountain
+F) opencountry
+G) street
+H) tallbuilding
+
+You must pick one; there is no "none of the above" option.
+
+Provide your 3 best guesses and the probability that each is correct (0% to 100%).
+Order from most to least likely.
+
+Respond with ONLY a JSON object, no other text.
+{{"guesses": [{{"answer": "<letter A-H>", "probability": <integer 0-100>}}, ...]}}

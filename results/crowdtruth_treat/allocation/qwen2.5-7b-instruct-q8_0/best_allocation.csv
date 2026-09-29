@@ -1,0 +1,2 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source,human_judgments_full,judgments_at_peak,judgments_saved,judgments_saved_pct
+qwen2.5-7b-instruct-q8_0,crowdtruth_treat,0.8003,0.8293,GLAD,0.8293,GLAD,0.8486,35,OneCoinDawidSkene,entropy,human_only,1241.29,0.000,434.45,806.84,65.0%,+0.0193,31.0,measured,"9,610","3,522","6,088",63.4%

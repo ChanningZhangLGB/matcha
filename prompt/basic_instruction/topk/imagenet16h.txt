@@ -1,0 +1,15 @@
+Look at the image and decide which object it shows.
+
+The photograph is in greyscale and has been degraded with visual noise, so it may be hard
+to make out. Judge it as best you can.
+
+Choose exactly one of these 16 categories:
+airplane, bear, bicycle, bird, boat, bottle, car, cat, chair, clock, dog, elephant, keyboard, knife, oven, truck
+
+You must pick one; there is no "none of the above" option.
+
+Provide your 3 best guesses and the probability that each is correct (0% to 100%).
+Order from most to least likely.
+
+Respond with ONLY a JSON object, no other text.
+{{"guesses": [{{"answer": "<category>", "probability": <integer 0-100>}}, ...]}}

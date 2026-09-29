@@ -1,0 +1,37 @@
+dataset,model,source,source_detail,k,measure,status,overall_acc,ECE,AUROC,slope,acc_lowest_u,acc_highest_u
+sentiment,gpt-4o-mini,k0,basic instruction x vanilla (single response),1,confidence,ok,0.9056,0.0475,0.7844,0.2828,0.9925,0.7097
+sentiment,gpt-4o-mini,k0,basic instruction x vanilla (single response),1,entropy,DEGENERATE (identically 0 at k=1: a single vote has no spread),0.9056,0.0944,0.5000,,,
+sentiment,gpt-4o-mini,k0,basic instruction x vanilla (single response),1,inter_rater,DEGENERATE (undefined at k=1: divides by k(k-1)=0),0.9056,,,,,
+sentiment,gpt-4o-mini,k1,basic instruction x 3 protocols,3,confidence,ok,0.9044,0.0509,0.8058,0.2436,0.9936,0.75
+sentiment,gpt-4o-mini,k1,basic instruction x 3 protocols,3,entropy,ok,0.9044,0.0945,0.6152,0.3953,0.9254,0.5301
+sentiment,gpt-4o-mini,k1,basic instruction x 3 protocols,3,inter_rater,ok,0.9044,0.0811,0.6152,0.3953,0.9254,0.5301
+sentiment,gpt-4o-mini,k2,3 prompt paraphrases x vanilla,3,confidence,ok,0.9058,0.0375,0.8069,0.3369,0.9954,0.6585
+sentiment,gpt-4o-mini,k2,3 prompt paraphrases x vanilla,3,entropy,ok,0.9058,0.1121,0.6039,0.2619,0.9249,0.663
+sentiment,gpt-4o-mini,k2,3 prompt paraphrases x vanilla,3,inter_rater,ok,0.9058,0.0937,0.6039,0.2619,0.9249,0.663
+sentiment,gpt-4o-mini,k3,3 prompt groups x 3 protocols,9,confidence,ok,0.906,0.0445,0.8160,0.352,0.9949,0.6429
+sentiment,gpt-4o-mini,k3,3 prompt groups x 3 protocols,9,entropy,ok,0.906,0.1057,0.6715,0.359,0.9388,0.5798
+sentiment,gpt-4o-mini,k3,3 prompt groups x 3 protocols,9,inter_rater,ok,0.906,0.0677,0.6715,0.359,0.9388,0.5798
+sentiment,llama3.1-8b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,confidence,ok,0.901,0.0527,0.6794,0.7013,0.987,0.2857
+sentiment,llama3.1-8b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,entropy,DEGENERATE (identically 0 at k=1: a single vote has no spread),0.901,0.0990,0.5000,,,
+sentiment,llama3.1-8b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,inter_rater,DEGENERATE (undefined at k=1: divides by k(k-1)=0),0.901,,,,,
+sentiment,llama3.1-8b-instruct-q8_0,k1,basic instruction x 3 protocols,3,confidence,ok,0.9046,0.0656,0.7276,0.7931,0.9931,0.2
+sentiment,llama3.1-8b-instruct-q8_0,k1,basic instruction x 3 protocols,3,entropy,ok,0.9046,0.1221,0.7290,0.3181,0.9508,0.6327
+sentiment,llama3.1-8b-instruct-q8_0,k1,basic instruction x 3 protocols,3,inter_rater,ok,0.9046,0.0856,0.7290,0.3181,0.9508,0.6327
+sentiment,llama3.1-8b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,confidence,ok,0.913,0.0379,0.7207,0.4958,0.9958,0.5
+sentiment,llama3.1-8b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,entropy,ok,0.913,0.1195,0.7011,0.2835,0.9497,0.6662
+sentiment,llama3.1-8b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,inter_rater,ok,0.913,0.0869,0.7011,0.2835,0.9497,0.6662
+sentiment,llama3.1-8b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,confidence,ok,0.913,0.0653,0.7902,0.4518,0.9973,0.5455
+sentiment,llama3.1-8b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,entropy,ok,0.913,0.1553,0.7884,0.3828,0.9694,0.5866
+sentiment,llama3.1-8b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,inter_rater,ok,0.913,0.0600,0.7884,0.3828,0.9694,0.5866
+sentiment,qwen2.5-7b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,confidence,ok,0.9124,0.0765,0.6995,0.9892,0.9892,0.0
+sentiment,qwen2.5-7b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,entropy,DEGENERATE (identically 0 at k=1: a single vote has no spread),0.9124,0.0876,0.5000,,,
+sentiment,qwen2.5-7b-instruct-q8_0,k0,basic instruction x vanilla (single response),1,inter_rater,DEGENERATE (undefined at k=1: divides by k(k-1)=0),0.9124,,,,,
+sentiment,qwen2.5-7b-instruct-q8_0,k1,basic instruction x 3 protocols,3,confidence,ok,0.9138,0.0602,0.7660,0.4112,0.9901,0.5789
+sentiment,qwen2.5-7b-instruct-q8_0,k1,basic instruction x 3 protocols,3,entropy,ok,0.9138,0.1047,0.6354,0.2833,0.937,0.6537
+sentiment,qwen2.5-7b-instruct-q8_0,k1,basic instruction x 3 protocols,3,inter_rater,ok,0.9138,0.0841,0.6354,0.2833,0.937,0.6537
+sentiment,qwen2.5-7b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,confidence,ok,0.9098,0.0610,0.7777,0.991,0.991,0.0
+sentiment,qwen2.5-7b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,entropy,ok,0.9098,0.1070,0.6632,0.3105,0.9394,0.6289
+sentiment,qwen2.5-7b-instruct-q8_0,k2,3 prompt paraphrases x vanilla,3,inter_rater,ok,0.9098,0.0830,0.6632,0.3105,0.9394,0.6289
+sentiment,qwen2.5-7b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,confidence,ok,0.9088,0.0471,0.7967,0.2132,0.991,0.7778
+sentiment,qwen2.5-7b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,entropy,ok,0.9088,0.1151,0.7595,0.412,0.9594,0.5474
+sentiment,qwen2.5-7b-instruct-q8_0,k3,3 prompt groups x 3 protocols,9,inter_rater,ok,0.9088,0.0472,0.7595,0.412,0.9594,0.5474

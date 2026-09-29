@@ -1,0 +1,17 @@
+Below is a question offering several possible answers. Exactly one of them is correct;
+identify it.
+
+The question is drawn from a crowdsourced quiz and may be in English, Japanese, or Chinese.
+Work with it in whichever language it is written; do not translate it first.
+
+Question: {question}
+
+Options:
+{options}
+
+State your choice as the LETTER that identifies that option, drawn from: {letters}.
+
+Provide your answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"answer": "<letter>", "confidence": <integer 0-100>}}

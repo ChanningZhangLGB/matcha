@@ -1,0 +1,562 @@
+dataset,measure,model,method,X,accuracy,best_route
+pico_5k,confidence,gpt-4o-mini,MajorityVote,0,0.9406,
+pico_5k,confidence,gpt-4o-mini,MajorityVote,5,0.9432,h-human
+pico_5k,confidence,gpt-4o-mini,MajorityVote,10,0.942,h-human
+pico_5k,confidence,gpt-4o-mini,MajorityVote,15,0.942,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MajorityVote,20,0.9438,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MajorityVote,25,0.9452,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MajorityVote,30,0.9491,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MajorityVote,35,0.9472,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MajorityVote,40,0.9478,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MajorityVote,45,0.9507,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MajorityVote,50,0.9521,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MajorityVote,55,0.9521,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MajorityVote,60,0.9527,h-human
+pico_5k,confidence,gpt-4o-mini,MajorityVote,65,0.9527,h-human
+pico_5k,confidence,gpt-4o-mini,MajorityVote,70,0.9529,h-human
+pico_5k,confidence,gpt-4o-mini,MajorityVote,75,0.9537,h-human
+pico_5k,confidence,gpt-4o-mini,MajorityVote,80,0.9555,h-human
+pico_5k,confidence,gpt-4o-mini,MajorityVote,85,0.9553,h-human
+pico_5k,confidence,gpt-4o-mini,MajorityVote,90,0.9561,h-human
+pico_5k,confidence,gpt-4o-mini,MajorityVote,95,0.9569,h-human
+pico_5k,confidence,gpt-4o-mini,MajorityVote,100,0.9607,
+pico_5k,confidence,gpt-4o-mini,Wawa,0,0.9406,
+pico_5k,confidence,gpt-4o-mini,Wawa,5,0.9432,h-human
+pico_5k,confidence,gpt-4o-mini,Wawa,10,0.942,h-human
+pico_5k,confidence,gpt-4o-mini,Wawa,15,0.942,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,20,0.9438,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,25,0.9452,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,30,0.9491,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,35,0.9497,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,40,0.9503,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,45,0.9521,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,50,0.9517,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,55,0.9517,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,60,0.9527,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,65,0.9527,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,70,0.9529,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,75,0.9533,h-human_llm
+pico_5k,confidence,gpt-4o-mini,Wawa,80,0.9543,h-human
+pico_5k,confidence,gpt-4o-mini,Wawa,85,0.9547,h-human
+pico_5k,confidence,gpt-4o-mini,Wawa,90,0.9555,h-human
+pico_5k,confidence,gpt-4o-mini,Wawa,95,0.9563,h-human
+pico_5k,confidence,gpt-4o-mini,Wawa,100,0.9601,
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,0,0.9406,
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,5,0.9432,h-human
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,10,0.9432,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,15,0.9432,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,20,0.9438,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,25,0.9452,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,30,0.9491,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,35,0.9497,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,40,0.9497,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,45,0.9521,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,50,0.9529,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,55,0.9529,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,60,0.9539,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,65,0.9539,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,70,0.9541,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,75,0.9549,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,80,0.9551,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,85,0.9549,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,90,0.9557,h-human_llm
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,95,0.9577,h-human
+pico_5k,confidence,gpt-4o-mini,ZeroBasedSkill,100,0.9615,
+pico_5k,confidence,gpt-4o-mini,DawidSkene,0,0.9406,
+pico_5k,confidence,gpt-4o-mini,DawidSkene,5,0.9438,h-human
+pico_5k,confidence,gpt-4o-mini,DawidSkene,10,0.9452,h-human
+pico_5k,confidence,gpt-4o-mini,DawidSkene,15,0.9452,h-human
+pico_5k,confidence,gpt-4o-mini,DawidSkene,20,0.9454,h-human
+pico_5k,confidence,gpt-4o-mini,DawidSkene,25,0.9476,h-human
+pico_5k,confidence,gpt-4o-mini,DawidSkene,30,0.9495,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,35,0.9452,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,40,0.9458,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,45,0.9462,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,50,0.9442,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,55,0.9424,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,60,0.9448,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,65,0.9444,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,70,0.9436,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,75,0.9438,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,80,0.9464,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,85,0.947,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,90,0.9489,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,95,0.9484,h-human_llm
+pico_5k,confidence,gpt-4o-mini,DawidSkene,100,0.9491,
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,0,0.9406,
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,5,0.9432,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,10,0.942,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,15,0.942,h-human_llm
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,20,0.9426,h-human_llm
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,25,0.9438,h-human_llm
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,30,0.9474,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,35,0.948,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,40,0.948,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,45,0.9513,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,50,0.9527,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,55,0.9509,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,60,0.9511,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,65,0.9511,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,70,0.9511,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,75,0.9515,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,80,0.9521,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,85,0.9517,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,90,0.9525,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,95,0.9533,h-human
+pico_5k,confidence,gpt-4o-mini,OneCoinDawidSkene,100,0.9575,
+pico_5k,confidence,gpt-4o-mini,GLAD,0,0.9406,
+pico_5k,confidence,gpt-4o-mini,GLAD,5,0.9432,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,10,0.942,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,15,0.942,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,20,0.9426,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,25,0.944,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,30,0.948,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,35,0.9485,h-human_llm
+pico_5k,confidence,gpt-4o-mini,GLAD,40,0.9485,h-human_llm
+pico_5k,confidence,gpt-4o-mini,GLAD,45,0.9503,h-human_llm
+pico_5k,confidence,gpt-4o-mini,GLAD,50,0.9511,h-human_llm
+pico_5k,confidence,gpt-4o-mini,GLAD,55,0.9507,h-human_llm
+pico_5k,confidence,gpt-4o-mini,GLAD,60,0.9507,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,65,0.9507,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,70,0.9509,h-human_llm
+pico_5k,confidence,gpt-4o-mini,GLAD,75,0.9513,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,80,0.9529,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,85,0.9531,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,90,0.9539,h-human
+pico_5k,confidence,gpt-4o-mini,GLAD,95,0.9547,h-human
+pico_5k,confidence,gpt-4o-mini,MACE,0,0.9406,
+pico_5k,confidence,gpt-4o-mini,MACE,5,0.9432,h-human
+pico_5k,confidence,gpt-4o-mini,MACE,10,0.942,h-human
+pico_5k,confidence,gpt-4o-mini,MACE,15,0.942,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,20,0.9458,h-human
+pico_5k,confidence,gpt-4o-mini,MACE,25,0.944,h-human
+pico_5k,confidence,gpt-4o-mini,MACE,30,0.948,h-human
+pico_5k,confidence,gpt-4o-mini,MACE,35,0.9448,h-human
+pico_5k,confidence,gpt-4o-mini,MACE,40,0.9454,h-human
+pico_5k,confidence,gpt-4o-mini,MACE,45,0.9434,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,50,0.9519,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,55,0.9523,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,60,0.9531,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,65,0.9531,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,70,0.9533,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,75,0.9511,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,80,0.9553,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,85,0.9515,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,90,0.9523,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MACE,95,0.9531,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,0,0.9406,
+pico_5k,confidence,gpt-4o-mini,MMSR,5,0.9432,h-human
+pico_5k,confidence,gpt-4o-mini,MMSR,10,0.9432,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,15,0.9406,h-human
+pico_5k,confidence,gpt-4o-mini,MMSR,20,0.9438,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,25,0.944,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,30,0.9511,h-human
+pico_5k,confidence,gpt-4o-mini,MMSR,35,0.9491,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,40,0.9491,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,45,0.9511,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,50,0.9519,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,55,0.9515,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,60,0.9515,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,65,0.9525,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,70,0.9527,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,75,0.9265,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,80,0.9547,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,85,0.9549,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,90,0.9551,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,95,0.9545,h-human_llm
+pico_5k,confidence,gpt-4o-mini,MMSR,100,0.9201,
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),0,0.9406,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),5,0.9432,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),10,0.942,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),15,0.9406,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),20,0.9426,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),25,0.9444,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),30,0.9482,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),35,0.9464,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),40,0.938,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),45,0.936,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),50,0.9513,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),55,0.9519,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),60,0.9527,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),65,0.9527,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),70,0.9529,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),75,0.9537,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),80,0.9555,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),85,0.9553,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),90,0.9561,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),95,0.9569,h-human
+pico_5k,confidence,gpt-4o-mini,CoAnnotating (baseline),100,0.9607,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,0,0.9118,
+pico_5k,confidence,llama3.1-8b,MajorityVote,5,0.915,h-human_llm
+pico_5k,confidence,llama3.1-8b,MajorityVote,10,0.9166,h-human_llm
+pico_5k,confidence,llama3.1-8b,MajorityVote,15,0.918,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,20,0.9176,h-human_llm
+pico_5k,confidence,llama3.1-8b,MajorityVote,25,0.9197,h-human_llm
+pico_5k,confidence,llama3.1-8b,MajorityVote,30,0.9199,h-human_llm
+pico_5k,confidence,llama3.1-8b,MajorityVote,35,0.9207,h-human_llm
+pico_5k,confidence,llama3.1-8b,MajorityVote,40,0.9213,h-human_llm
+pico_5k,confidence,llama3.1-8b,MajorityVote,45,0.9219,h-human_llm
+pico_5k,confidence,llama3.1-8b,MajorityVote,50,0.9337,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,55,0.9384,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,60,0.9388,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,65,0.9388,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,70,0.9414,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,75,0.945,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,80,0.9537,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,85,0.9567,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,90,0.9573,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,95,0.9591,h-human
+pico_5k,confidence,llama3.1-8b,MajorityVote,100,0.9607,
+pico_5k,confidence,llama3.1-8b,Wawa,0,0.9118,
+pico_5k,confidence,llama3.1-8b,Wawa,5,0.9146,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,10,0.9162,h-human_llm
+pico_5k,confidence,llama3.1-8b,Wawa,15,0.9176,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,20,0.9195,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,25,0.9217,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,30,0.9217,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,35,0.9247,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,40,0.9342,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,45,0.9348,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,50,0.9331,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,55,0.9378,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,60,0.9384,h-human_llm
+pico_5k,confidence,llama3.1-8b,Wawa,65,0.9382,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,70,0.9408,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,75,0.9444,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,80,0.9531,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,85,0.9561,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,90,0.9567,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,95,0.9585,h-human
+pico_5k,confidence,llama3.1-8b,Wawa,100,0.9601,
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,0,0.9118,
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,5,0.9146,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,10,0.9162,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,15,0.9176,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,20,0.9195,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,25,0.9209,h-human_llm
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,30,0.9209,h-human_llm
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,35,0.9239,h-human_llm
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,40,0.9331,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,45,0.9338,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,50,0.9344,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,55,0.9392,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,60,0.9396,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,65,0.9396,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,70,0.9422,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,75,0.9458,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,80,0.9545,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,85,0.9579,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,90,0.9585,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,95,0.9599,h-human
+pico_5k,confidence,llama3.1-8b,ZeroBasedSkill,100,0.9615,
+pico_5k,confidence,llama3.1-8b,DawidSkene,0,0.9118,
+pico_5k,confidence,llama3.1-8b,DawidSkene,5,0.9126,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,10,0.9142,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,15,0.9144,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,20,0.9158,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,25,0.9195,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,30,0.9203,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,35,0.9138,h-human_llm
+pico_5k,confidence,llama3.1-8b,DawidSkene,40,0.9154,h-human_llm
+pico_5k,confidence,llama3.1-8b,DawidSkene,45,0.9319,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,50,0.9315,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,55,0.9154,h-human_llm
+pico_5k,confidence,llama3.1-8b,DawidSkene,60,0.9166,h-human_llm
+pico_5k,confidence,llama3.1-8b,DawidSkene,65,0.9402,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,70,0.9448,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,75,0.9261,h-human
+pico_5k,confidence,llama3.1-8b,DawidSkene,80,0.9325,h-human_llm
+pico_5k,confidence,llama3.1-8b,DawidSkene,85,0.9267,h-human_llm
+pico_5k,confidence,llama3.1-8b,DawidSkene,90,0.9259,h-human_llm
+pico_5k,confidence,llama3.1-8b,DawidSkene,95,0.9297,h-human_llm
+pico_5k,confidence,llama3.1-8b,DawidSkene,100,0.9491,
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,0,0.9118,
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,5,0.9146,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,10,0.916,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,15,0.9174,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,20,0.9193,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,25,0.9199,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,30,0.9199,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,35,0.9229,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,40,0.9319,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,45,0.9325,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,50,0.9325,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,55,0.9352,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,60,0.9356,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,65,0.9352,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,70,0.9382,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,75,0.9416,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,80,0.9505,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,85,0.9557,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,90,0.9557,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,95,0.9559,h-human
+pico_5k,confidence,llama3.1-8b,OneCoinDawidSkene,100,0.9575,
+pico_5k,confidence,llama3.1-8b,GLAD,0,0.9118,
+pico_5k,confidence,llama3.1-8b,GLAD,5,0.9146,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,10,0.9162,h-human_llm
+pico_5k,confidence,llama3.1-8b,GLAD,15,0.9176,h-human_llm
+pico_5k,confidence,llama3.1-8b,GLAD,20,0.9195,h-human_llm
+pico_5k,confidence,llama3.1-8b,GLAD,25,0.9201,h-human_llm
+pico_5k,confidence,llama3.1-8b,GLAD,30,0.9201,h-human_llm
+pico_5k,confidence,llama3.1-8b,GLAD,35,0.9231,h-human_llm
+pico_5k,confidence,llama3.1-8b,GLAD,40,0.9317,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,45,0.9323,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,50,0.9329,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,55,0.937,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,60,0.9374,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,65,0.9374,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,70,0.94,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,75,0.9436,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,80,0.9523,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,85,0.9547,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,90,0.9547,h-human
+pico_5k,confidence,llama3.1-8b,GLAD,95,0.9567,h-human
+pico_5k,confidence,llama3.1-8b,MACE,0,0.9118,
+pico_5k,confidence,llama3.1-8b,MACE,5,0.9146,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,10,0.9162,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,15,0.9178,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,20,0.9195,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,25,0.9209,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,30,0.9207,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,35,0.9237,h-human
+pico_5k,confidence,llama3.1-8b,MACE,40,0.907,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,45,0.9068,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,50,0.934,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,55,0.9376,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,60,0.9386,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,65,0.939,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,70,0.9412,h-human_llm
+pico_5k,confidence,llama3.1-8b,MACE,75,0.9446,h-human
+pico_5k,confidence,llama3.1-8b,MACE,80,0.9521,h-human
+pico_5k,confidence,llama3.1-8b,MACE,85,0.9559,h-human
+pico_5k,confidence,llama3.1-8b,MACE,90,0.9535,h-human
+pico_5k,confidence,llama3.1-8b,MACE,95,0.9549,h-human
+pico_5k,confidence,llama3.1-8b,MMSR,0,0.9118,
+pico_5k,confidence,llama3.1-8b,MMSR,5,0.9146,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,10,0.9162,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,15,0.9166,h-human
+pico_5k,confidence,llama3.1-8b,MMSR,20,0.9201,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,25,0.9207,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,30,0.9211,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,35,0.9241,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,40,0.9337,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,45,0.9342,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,50,0.9352,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,55,0.9374,h-human
+pico_5k,confidence,llama3.1-8b,MMSR,60,0.9346,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,65,0.9346,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,70,0.9408,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,75,0.9424,h-human
+pico_5k,confidence,llama3.1-8b,MMSR,80,0.9519,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,85,0.9557,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,90,0.9557,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,95,0.9571,h-human_llm
+pico_5k,confidence,llama3.1-8b,MMSR,100,0.9201,
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),0,0.9118,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),5,0.9146,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),10,0.9148,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),15,0.918,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),20,0.9132,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),25,0.9154,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),30,0.9156,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),35,0.9164,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),40,0.9178,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),45,0.9186,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),50,0.9337,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),55,0.9384,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),60,0.9388,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),65,0.9388,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),70,0.9414,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),75,0.945,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),80,0.9537,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),85,0.9567,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),90,0.9573,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),95,0.9591,h-human
+pico_5k,confidence,llama3.1-8b,CoAnnotating (baseline),100,0.9607,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,0,0.8955,
+pico_5k,confidence,qwen2.5-7b,MajorityVote,5,0.8955,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MajorityVote,10,0.8955,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MajorityVote,15,0.8999,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MajorityVote,20,0.9023,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,25,0.9048,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,30,0.9072,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,35,0.915,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,40,0.9152,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,45,0.9247,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,50,0.9247,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,55,0.9251,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,60,0.9293,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,65,0.9368,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,70,0.9428,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,75,0.9436,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,80,0.9444,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,85,0.9444,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,90,0.9485,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,95,0.9507,h-human
+pico_5k,confidence,qwen2.5-7b,MajorityVote,100,0.9607,
+pico_5k,confidence,qwen2.5-7b,Wawa,0,0.8955,
+pico_5k,confidence,qwen2.5-7b,Wawa,5,0.8955,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,10,0.8955,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,15,0.8999,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,20,0.9027,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,25,0.905,h-human
+pico_5k,confidence,qwen2.5-7b,Wawa,30,0.9088,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,35,0.9166,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,40,0.9188,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,45,0.9249,h-human
+pico_5k,confidence,qwen2.5-7b,Wawa,50,0.9249,h-human
+pico_5k,confidence,qwen2.5-7b,Wawa,55,0.9277,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,60,0.9313,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,65,0.9388,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,70,0.9428,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,75,0.9436,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,80,0.9444,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,85,0.9444,h-human_llm
+pico_5k,confidence,qwen2.5-7b,Wawa,90,0.948,h-human
+pico_5k,confidence,qwen2.5-7b,Wawa,95,0.9501,h-human
+pico_5k,confidence,qwen2.5-7b,Wawa,100,0.9601,
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,0,0.8955,
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,5,0.8951,h-human
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,10,0.8955,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,15,0.8999,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,20,0.9027,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,25,0.905,h-human
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,30,0.9088,h-human
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,35,0.9166,h-human
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,40,0.9188,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,45,0.9263,h-human
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,50,0.9277,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,55,0.9283,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,60,0.9319,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,65,0.9394,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,70,0.9434,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,75,0.9442,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,80,0.945,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,85,0.945,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,90,0.9485,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,95,0.9501,h-human_llm
+pico_5k,confidence,qwen2.5-7b,ZeroBasedSkill,100,0.9615,
+pico_5k,confidence,qwen2.5-7b,DawidSkene,0,0.8955,
+pico_5k,confidence,qwen2.5-7b,DawidSkene,5,0.8927,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,10,0.8925,h-human_llm
+pico_5k,confidence,qwen2.5-7b,DawidSkene,15,0.8959,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,20,0.8993,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,25,0.9029,h-human_llm
+pico_5k,confidence,qwen2.5-7b,DawidSkene,30,0.9066,h-human_llm
+pico_5k,confidence,qwen2.5-7b,DawidSkene,35,0.9144,h-human_llm
+pico_5k,confidence,qwen2.5-7b,DawidSkene,40,0.9062,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,45,0.9148,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,50,0.9195,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,55,0.9184,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,60,0.9237,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,65,0.9301,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,70,0.9335,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,75,0.9342,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,80,0.9337,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,85,0.9344,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,90,0.9368,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,95,0.9394,h-human
+pico_5k,confidence,qwen2.5-7b,DawidSkene,100,0.9491,
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,0,0.8955,
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,5,0.8955,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,10,0.8955,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,15,0.8999,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,20,0.9027,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,25,0.905,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,30,0.9074,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,35,0.916,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,40,0.9182,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,45,0.9277,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,50,0.9277,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,55,0.9267,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,60,0.9305,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,65,0.938,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,70,0.944,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,75,0.9448,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,80,0.9456,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,85,0.9456,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,90,0.9478,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,95,0.9487,h-human
+pico_5k,confidence,qwen2.5-7b,OneCoinDawidSkene,100,0.9575,
+pico_5k,confidence,qwen2.5-7b,GLAD,0,0.8955,
+pico_5k,confidence,qwen2.5-7b,GLAD,5,0.8955,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,10,0.8955,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,15,0.8999,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,20,0.9027,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,25,0.905,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,30,0.9088,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,35,0.9166,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,40,0.9188,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,45,0.9255,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,50,0.9269,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,55,0.9265,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,60,0.9297,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,65,0.9358,h-human_llm
+pico_5k,confidence,qwen2.5-7b,GLAD,70,0.9412,h-human
+pico_5k,confidence,qwen2.5-7b,GLAD,75,0.942,h-human
+pico_5k,confidence,qwen2.5-7b,GLAD,80,0.9428,h-human
+pico_5k,confidence,qwen2.5-7b,GLAD,85,0.9434,h-human
+pico_5k,confidence,qwen2.5-7b,GLAD,90,0.947,h-human
+pico_5k,confidence,qwen2.5-7b,GLAD,95,0.948,h-human
+pico_5k,confidence,qwen2.5-7b,MACE,0,0.8955,
+pico_5k,confidence,qwen2.5-7b,MACE,5,0.8955,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,10,0.8955,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,15,0.8999,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,20,0.9031,h-human
+pico_5k,confidence,qwen2.5-7b,MACE,25,0.9046,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,30,0.9088,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,35,0.9166,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,40,0.9188,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,45,0.9283,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,50,0.9283,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,55,0.9265,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,60,0.9301,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,65,0.939,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,70,0.943,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MACE,75,0.943,h-human
+pico_5k,confidence,qwen2.5-7b,MACE,80,0.9438,h-human
+pico_5k,confidence,qwen2.5-7b,MACE,85,0.9444,h-human
+pico_5k,confidence,qwen2.5-7b,MACE,90,0.9478,h-human
+pico_5k,confidence,qwen2.5-7b,MACE,95,0.9476,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,0,0.8955,
+pico_5k,confidence,qwen2.5-7b,MMSR,5,0.8909,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,10,0.8927,h-human
+pico_5k,confidence,qwen2.5-7b,MMSR,15,0.8973,h-human
+pico_5k,confidence,qwen2.5-7b,MMSR,20,0.9023,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,25,0.906,h-human
+pico_5k,confidence,qwen2.5-7b,MMSR,30,0.9084,h-human
+pico_5k,confidence,qwen2.5-7b,MMSR,35,0.9162,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,40,0.9174,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,45,0.9263,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,50,0.9263,h-human
+pico_5k,confidence,qwen2.5-7b,MMSR,55,0.9289,h-human
+pico_5k,confidence,qwen2.5-7b,MMSR,60,0.9321,h-human
+pico_5k,confidence,qwen2.5-7b,MMSR,65,0.9392,h-human
+pico_5k,confidence,qwen2.5-7b,MMSR,70,0.9406,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,75,0.9428,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,80,0.9436,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,85,0.944,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,90,0.9476,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,95,0.9491,h-human_llm
+pico_5k,confidence,qwen2.5-7b,MMSR,100,0.9201,
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),0,0.8955,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),5,0.8951,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),10,0.8951,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),15,0.8995,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),20,0.9023,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),25,0.9048,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),30,0.9072,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),35,0.915,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),40,0.9152,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),45,0.9247,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),50,0.9247,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),55,0.9251,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),60,0.9293,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),65,0.9368,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),70,0.9428,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),75,0.9436,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),80,0.9444,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),85,0.9444,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),90,0.9485,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),95,0.9507,h-human
+pico_5k,confidence,qwen2.5-7b,CoAnnotating (baseline),100,0.9607,h-human

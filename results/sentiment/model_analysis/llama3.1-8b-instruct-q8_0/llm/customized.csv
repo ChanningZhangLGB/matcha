@@ -1,0 +1,7 @@
+protocol,accuracy,macro_f1,weighted_f1,f1_pos,coverage,n_scored,n_gold,mean_conf
+cot [assert=negative],0.8392,0.8362,0.8362,0.8142,1.0000,4999,4999,91.7
+cot [assert=positive],0.8744,0.8742,0.8742,0.8789,1.0000,4999,4999,91.7
+topk [assert=negative],0.8782,0.8779,0.8779,0.8719,1.0000,4999,4999,85.6
+topk [assert=positive],0.8620,0.8605,0.8605,0.8463,1.0000,4999,4999,85.6
+vanilla [assert=negative],0.8802,0.8795,0.8795,0.8704,1.0000,4999,4999,96.2
+vanilla [assert=positive],0.8934,0.8932,0.8932,0.8892,1.0000,4999,4999,96.2

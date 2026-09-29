@@ -1,0 +1,9 @@
+method,accuracy,macro_f1,weighted_f1,seconds
+DawidSkene,0.8030,0.7926,0.7940,1.0
+GLAD,0.7900,0.7783,0.7787,5.0
+MMSR,0.7840,0.7765,0.7783,0.4
+MACE,0.7880,0.7761,0.7761,32.0
+OneCoinDawidSkene,0.7890,0.7753,0.7753,1.0
+Wawa,0.7860,0.7739,0.7740,0.1
+ZeroBasedSkill,0.7830,0.7733,0.7736,1.9
+MajorityVote,0.7770,0.7648,0.7647,0.0

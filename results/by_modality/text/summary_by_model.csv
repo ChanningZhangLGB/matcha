@@ -1,0 +1,22 @@
+dataset,model,LLM-only,human-only,best aggregator,human+LLM,best aggregator
+sentiment,gpt-4o-mini,0.9012,0.9166,GLAD,0.9240,DawidSkene
+sentiment,llama3.1-8b,0.9068,0.9166,GLAD,0.9264,MACE
+sentiment,qwen2.5-7b,0.9060,0.9166,GLAD,0.9252,MACE
+movie_reviews,gpt-4o-mini,0.7483,0.7924,ZeroBasedSkill,0.8231,MajorityVote
+movie_reviews,llama3.1-8b,0.7437,0.7924,ZeroBasedSkill,0.8311,MajorityVote
+movie_reviews,qwen2.5-7b,0.6816,0.7924,ZeroBasedSkill,0.8097,MajorityVote
+crowdtruth_cause,gpt-4o-mini,0.7713,0.7692,MACE,0.7692,OneCoinDawidSkene
+crowdtruth_cause,llama3.1-8b,0.7579,0.7692,MACE,0.7682,GLAD
+crowdtruth_cause,qwen2.5-7b,0.7692,0.7692,MACE,0.7692,OneCoinDawidSkene
+crowdtruth_treat,gpt-4o-mini,0.8052,0.8293,GLAD,0.8341,GLAD
+crowdtruth_treat,llama3.1-8b,0.7810,0.8293,GLAD,0.8261,GLAD
+crowdtruth_treat,qwen2.5-7b,0.8003,0.8293,GLAD,0.8293,GLAD
+conll_ner_5k,gpt-4o-mini,0.9069,0.9418,DawidSkene,0.9498,DawidSkene
+conll_ner_5k,llama3.1-8b,0.7096,0.9418,DawidSkene,0.9412,DawidSkene
+conll_ner_5k,qwen2.5-7b,0.8377,0.9418,DawidSkene,0.9454,DawidSkene
+pico_5k,gpt-4o-mini,0.9406,0.9615,ZeroBasedSkill,0.9607,ZeroBasedSkill
+pico_5k,llama3.1-8b,0.9118,0.9615,ZeroBasedSkill,0.9587,MMSR
+pico_5k,qwen2.5-7b,0.8955,0.9615,ZeroBasedSkill,0.9597,ZeroBasedSkill
+quiz,gpt-4o-mini,0.8387,0.7226,MACE,0.7613,MACE
+quiz,llama3.1-8b,0.6387,0.7226,MACE,0.7355,MACE
+quiz,qwen2.5-7b,0.7355,0.7226,MACE,0.7484,MACE

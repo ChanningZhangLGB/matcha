@@ -1,0 +1,12 @@
+The picture below shows a scene of one particular kind. Work out which kind.
+
+Exactly one of the following 8 categories applies:
+coast, forest, highway, insidecity, mountain, opencountry, street, tallbuilding
+
+A choice is required; "none of the above" is not available.
+
+Give your 3 most likely answers together with the probability that each one is right
+(0% to 100%). List them from most to least likely.
+
+Respond with ONLY a JSON object, no other text.
+{{"guesses": [{{"answer": "<category>", "probability": <integer 0-100>}}, ...]}}

@@ -1,0 +1,11 @@
+The sentence below comes from a movie review. Judge whether the opinion it conveys is
+favourable or unfavourable. One of the two must be chosen - a neutral verdict is not available.
+
+Sentence: {sentence}
+
+Work through the sentence step by step: note the words carrying opinion and any negation
+or contrast that flips them, then settle on the overall polarity. Then provide your answer
+and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"reasoning": "<1-2 sentences>", "answer": "pos" or "neg", "confidence": <integer 0-100>}}

@@ -1,0 +1,7 @@
+model,dataset,llm_only,human_only,human_only_method,human_plus_llm,human_plus_llm_method,peak_routed,peak_budget_X,peak_method,peak_uncertainty,peak_route,human_cost_full_usd,llm_cost_usd,cost_at_peak_usd,saved_usd,saved_pct,acc_vs_human_only,sec_per_judgment,timing_source
+gpt-4o-mini,labelme,0.8140,0.7920,DawidSkene,0.8260,DawidSkene,0.8320,35,MMSR,entropy,human_only,53.06,3.935,22.51,30.55,57.6%,+0.0400,5.0,assumed
+gpt-4o-mini,imagenet16h,0.7973,0.8767,Wawa,0.8821,GLAD,0.8840,95,GLAD,entropy,human_plus_llm,441.96,19.016,438.88,3.08,0.7%,+0.0073,3.7,measured
+minicpm-v-8b-2.6-q8_0,labelme,0.7460,0.7920,DawidSkene,0.8030,DawidSkene,0.8200,70,DawidSkene,confidence,human_only,53.06,0.000,37.14,15.92,30.0%,+0.0280,5.0,assumed
+qwen2.5vl-7b-q8_0,labelme,0.7600,0.7920,DawidSkene,0.8050,DawidSkene,0.8280,70,DawidSkene,entropy,human_only,53.06,0.000,37.14,15.92,30.0%,+0.0360,5.0,assumed
+minicpm-v-8b-2.6-q8_0,imagenet16h,0.6229,0.8767,Wawa,0.8781,GLAD,0.8792,95,GLAD,entropy,human_plus_llm,441.96,0.000,419.86,22.10,5.0%,+0.0025,3.7,measured
+qwen2.5vl-7b-q8_0,imagenet16h,0.6523,0.8767,Wawa,0.8769,GLAD,0.8771,85,ZeroBasedSkill,confidence,human_plus_llm,441.96,0.000,375.67,66.29,15.0%,+0.0004,3.7,measured

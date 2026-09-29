@@ -1,0 +1,15 @@
+Identify the named entities in the sentence below and classify each as a person (PER),
+location (LOC), organization (ORG), or miscellaneous (MISC). Miscellaneous covers named
+entities that are not persons, locations, or organizations, such as nationalities and events.
+
+Label every token using BIO tags: B-PER, I-PER, B-LOC, I-LOC, B-ORG, I-ORG, B-MISC, I-MISC,
+or O for tokens that are not part of any named entity.
+
+Tokens: {tokens}
+
+First identify the entity spans in the sentence and their types, then convert them to
+per-token BIO tags. Return one tag per token, in the same order and the same number as the
+tokens above, and your confidence for each tag.
+
+Respond with ONLY a JSON object, no other text.
+{{"reasoning": "<brief>", "answer": ["<tag>", ...], "confidence": [<integer 0-100>, ...]}}

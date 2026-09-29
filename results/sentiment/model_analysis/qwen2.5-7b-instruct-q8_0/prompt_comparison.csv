@@ -1,0 +1,13 @@
+protocol,metric,basic,control,customized
+vanilla [assert=negative],accuracy,0.9124,0.9102,0.8836
+vanilla [assert=positive],accuracy,,,0.8976
+cot [assert=negative],accuracy,0.9058,0.9050,0.8487
+cot [assert=positive],accuracy,,,0.8956
+topk [assert=negative],accuracy,0.8980,0.9061,0.8954
+topk [assert=positive],accuracy,,,0.8794
+vanilla [assert=negative],macro_f1,0.9124,0.9102,0.8832
+vanilla [assert=positive],macro_f1,,,0.8975
+cot [assert=negative],macro_f1,0.9057,0.9049,0.8462
+cot [assert=positive],macro_f1,,,0.8956
+topk [assert=negative],macro_f1,0.8977,0.9061,0.8953
+topk [assert=positive],macro_f1,,,0.8785

@@ -1,0 +1,29 @@
+Look at the image and decide which object it shows.
+
+The photograph is in greyscale and has been degraded with visual noise, so it may be hard
+to make out. Judge it as best you can.
+
+Which category does the image show? Choose exactly one:
+A) airplane
+B) bear
+C) bicycle
+D) bird
+E) boat
+F) bottle
+G) car
+H) cat
+I) chair
+J) clock
+K) dog
+L) elephant
+M) keyboard
+N) knife
+O) oven
+P) truck
+
+You must pick one; there is no "none of the above" option.
+
+Provide your answer and your confidence in this answer.
+
+Respond with ONLY a JSON object, no other text.
+{{"answer": "<letter A-P>", "confidence": <integer 0-100>}}
