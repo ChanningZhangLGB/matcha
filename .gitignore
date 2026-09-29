@@ -11,3 +11,5 @@ datasets/*/
 datasets_pass/*/
 llm_output/
 *.log
+# release downloads
+*.tar.gz
