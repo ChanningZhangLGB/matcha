@@ -58,12 +58,6 @@ the 9 prompting conditions. *Crowd-LLM*: best aggregator on the crowd with the L
 annotator, on every instance. *CoAnnotating*: uncertainty-based routing with majority vote
 ([Li et al., EMNLP 2023](https://arxiv.org/abs/2310.15638)).
 
-**Reading these numbers.** MATCHA's column is the best cell over its whole search space
-(uncertainty basis, route, aggregator and budget X), evaluated on the same gold labels, so it
-reports the best attainable accuracy rather than a fixed-budget operating point. The budget
-is free, and several optima sit at high X. How much human effort each optimum needs is shown
-separately:
-
 <p align="center">
   <img src="results/RQ2/allocation_vs_acc/sentiment/per_method_gpt-4o-mini.png" width="720"
        alt="Accuracy against the share of instances routed to humans on Sentiment Polarity">
@@ -72,6 +66,12 @@ separately:
   grows from 0% (LLM only) to 100% (crowd only). Each line is one aggregator; the star marks
   the best allocation.</em>
 </p>
+
+**Reading these numbers.** MATCHA's column is the best cell over its whole search space
+(uncertainty basis, route, aggregator and budget X), evaluated on the same gold labels, so it
+reports the best attainable accuracy rather than a fixed-budget operating point. The budget
+is free, and several optima sit at high X. How much human effort each optimum needs is shown
+separately:
 
 <p align="center">
   <img src="results/RQ2/compare_aggregation/effort_vs_crowdllm.png" width="760"
