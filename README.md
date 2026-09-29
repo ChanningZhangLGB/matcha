@@ -53,15 +53,6 @@ Llama3.1-8B and Qwen2.5-7B on text and MiniCPM-V-8B and Qwen2.5VL-7B on images, 
 Across all 24 dataset-model pairs, MATCHA is strictly best in 17, ties the best baseline in 4
 and trails it in 3.
 
-<p align="center">
-  <img src="results/RQ2/allocation_vs_acc/sentiment/per_method_gpt-4o-mini.png" width="720"
-       alt="Accuracy against the share of instances routed to humans on Sentiment Polarity">
-  <br>
-  <em>Sentiment Polarity, GPT-4o-mini: accuracy as the share of instances routed to humans
-  grows from 0% (LLM only) to 100% (crowd only). Each line is one aggregator; the star marks
-  the best allocation.</em>
-</p>
-
 **Baselines.** *Human-only*: best aggregator on the crowd alone. *LLM-only*: majority vote over
 the 9 prompting conditions. *Crowd-LLM*: best aggregator on the crowd with the LLM added as one
 annotator, on every instance. *CoAnnotating*: uncertainty-based routing with majority vote
@@ -72,6 +63,15 @@ annotator, on every instance. *CoAnnotating*: uncertainty-based routing with maj
 reports the best attainable accuracy rather than a fixed-budget operating point. The budget
 is free, and several optima sit at high X. How much human effort each optimum needs is shown
 separately:
+
+<p align="center">
+  <img src="results/RQ2/allocation_vs_acc/sentiment/per_method_gpt-4o-mini.png" width="720"
+       alt="Accuracy against the share of instances routed to humans on Sentiment Polarity">
+  <br>
+  <em>Sentiment Polarity, GPT-4o-mini: accuracy as the share of instances routed to humans
+  grows from 0% (LLM only) to 100% (crowd only). Each line is one aggregator; the star marks
+  the best allocation.</em>
+</p>
 
 <p align="center">
   <img src="results/RQ2/compare_aggregation/effort_vs_crowdllm.png" width="760"
