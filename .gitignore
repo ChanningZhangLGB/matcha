@@ -13,3 +13,7 @@ llm_output/
 *.log
 # release downloads
 *.tar.gz
+
+# manuscripts
+*.pdf
+!results/**/*.pdf

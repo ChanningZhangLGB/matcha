@@ -9,16 +9,13 @@ and resolves the routed instances with a label-aggregation model. This repositor
 the full pipeline, all 72 prompts, the processed annotation tables for eight crowdsourced
 datasets, and every result table and figure reported in the paper.
 
-<p align="center">
-  <img src="results/RQ2/allocation_vs_acc/sentiment/per_method_gpt-4o-mini.png" width="720"
-       alt="Accuracy against the share of instances routed to humans on Sentiment Polarity">
-  <br>
-  <em>Sentiment Polarity, GPT-4o-mini: accuracy as the share of instances routed to humans
-  grows from 0% (LLM only) to 100% (crowd only). Each line is one aggregator; the star marks
-  the best allocation.</em>
-</p>
-
 ## How it works
+
+<p align="center">
+  <img src="docs/framework.png" width="900" alt="The framework of MATCHA">
+  <br>
+  <em>The framework of MATCHA.</em>
+</p>
 
 1. **LLM annotation.** Each instance is labelled under 9 prompting conditions: 3 elicitation
    protocols (Vanilla, chain-of-thought, Top-k) crossed with 3 prompt variants (the base
@@ -55,6 +52,15 @@ Llama3.1-8B and Qwen2.5-7B on text and MiniCPM-V-8B and Qwen2.5VL-7B on images, 
 
 Across all 24 dataset-model pairs, MATCHA is strictly best in 17, ties the best baseline in 4
 and trails it in 3.
+
+<p align="center">
+  <img src="results/RQ2/allocation_vs_acc/sentiment/per_method_gpt-4o-mini.png" width="720"
+       alt="Accuracy against the share of instances routed to humans on Sentiment Polarity">
+  <br>
+  <em>Sentiment Polarity, GPT-4o-mini: accuracy as the share of instances routed to humans
+  grows from 0% (LLM only) to 100% (crowd only). Each line is one aggregator; the star marks
+  the best allocation.</em>
+</p>
 
 **Baselines.** *Human-only*: best aggregator on the crowd alone. *LLM-only*: majority vote over
 the 9 prompting conditions. *Crowd-LLM*: best aggregator on the crowd with the LLM added as one
